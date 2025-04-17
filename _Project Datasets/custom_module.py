@@ -1,0 +1,2 @@
+def generate_time_travel_message(year, destination, cost):
+  return print(f"This is a message from the year {year}! It was intended for someone in {destination}. It cost ${cost} to send this message.")
