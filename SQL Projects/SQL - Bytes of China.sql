@@ -278,7 +278,7 @@ INSERT INTO categories_dishes VALUES (
   17.95
 );
 
--- Start making queries!
+-- Start by selecting all the data from each table to verify the data was inserted correctly
 SELECT * FROM restaurant;
 SELECT * FROM address;
 SELECT * FROM category;
@@ -286,7 +286,7 @@ SELECT * FROM dish;
 SELECT * FROM review;
 SELECT * FROM categories_dishes;
 
--- Task 10
+-- Task 10 - Selecting restaurant name, address, and telephone number
 SELECT 
   restaurant.name as Restaurant, 
   address.street_number, 
@@ -294,13 +294,13 @@ SELECT
   restaurant.telephone as Telephone
 FROM restaurant, address;
 
--- Task 11
+-- Task 11 - Selecting the best rating from review table
 SELECT review.rating as best_rating
 FROM review
 ORDER BY rating DESC
 LIMIT 1;
 
--- Task 12
+-- Task 12 - Selecting dishes with their price and category, ordered by dish name
 SELECT 
   dish.name as dish_name, 
   categories_dishes.price as price, 
@@ -310,7 +310,7 @@ JOIN categories_dishes on dish.id = categories_dishes.dish_id
 JOIN category on categories_dishes.category_id = category.id
 ORDER BY dish.name;
 
--- Task 13
+-- Task 13 - Selecting dishes with their price and category, ordered by category name
 SELECT 
   dish.name as dish_name, 
   categories_dishes.price as price, 
@@ -320,7 +320,7 @@ JOIN categories_dishes on dish.id = categories_dishes.dish_id
 JOIN category on categories_dishes.category_id = category.id
 ORDER BY category.name;
 
--- Task 14
+-- Task 14 - Selecting spicy dishes with their price and category
 SELECT 
   dish.name as spicy_dish_name, 
   categories_dishes.price as price, 
@@ -331,18 +331,18 @@ JOIN category on categories_dishes.category_id = category.id
 WHERE dish.hot_and_spicy = TRUE
 ORDER BY dish.name;
 
--- Task 15
+-- Task 15 - Count the number of dishes in each category and group by dish_id
 SELECT categories_dishes.dish_id, COUNT(dish_id) as dish_count
 FROM categories_dishes
 GROUP BY dish_id;
 
--- Task 16
+-- Task 16 - Find dishes that are in more than one category
 SELECT categories_dishes.dish_id, COUNT(dish_id) as dish_count
 FROM categories_dishes
 GROUP BY dish_id
 HAVING COUNT(dish_id) > 1;
 
--- Task 17
+-- Task 17 - Selecting dishes that are in more than one category, grouped by dish name.
 SELECT 
   dish.name as dish_name,
   COUNT(categories_dishes.dish_id) as dish_count 
@@ -351,7 +351,7 @@ JOIN dish on dish.id = categories_dishes.dish_id
 GROUP BY dish.name
 HAVING COUNT(categories_dishes.dish_id) > 1;
 
--- Task 18
+-- Task 18 - Selcting the best rating and description from review table
 SELECT 
   rating as best_rating,
   description
