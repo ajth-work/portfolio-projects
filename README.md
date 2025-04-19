@@ -29,7 +29,7 @@ This GitHub repository showcases projects completed across my learning journey, 
 
 ### Project Datasets
 
-- Datasets and other resources used across my various projects. These are included for reference and reproducibility, using relative paths in my projects where ever possible.
+- Datasets and other resources used across my various projects. These are included for reference and reproducibility, using relative paths in my projects where possible.
 
 ## ✅ Skills Demonstrated:
 
