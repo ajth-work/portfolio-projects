@@ -5,40 +5,40 @@ This GitHub repository showcases projects completed across my learning journey, 
 
 ### Data Science Projects
 
--Projects focused on data analysis, visualization, and machine learning using libraries like Pandas, Matplotlib, and Scikit-learn.
+- Projects focused on data analysis, visualization, and machine learning using libraries like Pandas, Matplotlib, and Scikit-learn.
 
--I am interested in machine learning techniques that ingest complex datasets and produce results that can be displayed in easy-to-understand visualizations. 
+- I am interested in machine learning techniques that ingest complex datasets and produce results that can be displayed in easy-to-understand visualizations. 
 
 ### Python Projects
 
--General Python scripting, logic building, automation, and OOP practice.
+- General Python scripting, logic building, automation, and OOP practice.
 
--I enjoy tinkering with Python to achieve tasks with data. 
+- I enjoy tinkering with Python to achieve tasks with data. 
 
 ### SQL Projects
 
--SQL queries and database operations including filtering, joins, subqueries, and aggregate analysis.
+- SQL queries and database operations including filtering, joins, subqueries, and aggregate analysis.
 
--While I love spreadsheets, I have found SQL to be excellent with aggregate functions and more programmatic results.
+- While I love spreadsheets, I have found SQL to be excellent with aggregate functions and more programmatic results.
 
 ### Web App Projects
 
--Small web applications built using Flask or other lightweight frameworks, demonstrating backend logic and basic frontend integration.
+- Small web applications built using Flask or other lightweight frameworks, demonstrating backend logic and basic frontend integration.
 
--I like developing tools that connect over the internet, like Docker containers that enable me to access my computer remotely and Google Forms that connect via the Cloud to Power BI to update dashboard visualizations.
+- I like developing tools that connect over the internet, like Docker containers that enable me to access my computer remotely and Google Forms that connect via the Cloud to Power BI to update dashboard visualizations.
 
 ### Project Datasets
 
--Datasets and other resources used across my various projects. These are included for reference and reproducibility, using relative paths in my projects where ever possible.
+- Datasets and other resources used across my various projects. These are included for reference and reproducibility, using relative paths in my projects where ever possible.
 
 ## ✅ Skills Demonstrated:
 
--Python Programming (OOP, functions, scripting)
+- Python Programming (OOP, functions, scripting)
 
--Data Manipulation and Visualization
+- Data Manipulation and Visualization
 
--SQL for Data Analysis
+- SQL for Data Analysis
 
--Flask Web Development
+- Flask Web Development
 
--Version Control and GitHub Collaboration
+- Version Control and GitHub Collaboration
