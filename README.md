@@ -41,4 +41,4 @@ This GitHub repository showcases projects completed across my learning journey, 
 
 - Flask Web Development
 
-- Version Control and GitHub Collaboration
+- Version Control with GitHub
