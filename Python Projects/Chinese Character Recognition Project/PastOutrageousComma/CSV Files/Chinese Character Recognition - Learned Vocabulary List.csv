@@ -1,0 +1,984 @@
+#,Term,Pinyin,Definition,HSK Level
+1,〇,líng,zero,0
+2,一,yī,"1, a, an, one",1
+3,一下,yī xià,one time,0
+4,一个人,yī gè rén,one person,0
+5,一会儿,yí huì r,for a while,1
+6,一共,yí gòng,"total, altogether",2
+7,一定,yí dìng,must,2
+8,一样,yí yàng,same,1
+9,一点儿,yī diǎn r,a little,1
+10,一直,yì zhí,always,2
+11,一般,yì bān,generally,2
+12,一起,yì qǐ,together,1
+13,一边,yì biān,one side,1
+14,七,qī,"seven, 7",1
+15,万,wàn,ten thousand,2
+16,丈夫,zhàng fu,"husbands, husband",4
+17,三,sān,"3, three, the third",1
+18,上,shàng,"on, last, attend, get on, top, up, get in, go to, board, in, over",1
+19,上午,shàng wǔ,"mornings, a.m., morning",1
+20,上学,shàng xué,go to school,1
+21,上海,shàng hǎi,"Shanghainese, Shanghai",0
+22,上班,shàng bān,"go to work, work",1
+23,上网,shàng wǎng,"go online, on the Internet, online",1
+24,上面,shàng miàn,"on, above, top, on top of, top side, upside",3
+25,下,xià,"go down, play, end, ends class, next, down, get off, under, gave",1
+26,下午,xià wǔ,"in the afternoon, pm, afternoon, p.m.",1
+27,下班,xià bān,"finish work, got off work, get off work",1
+28,下课,xià kè,"finish class, end class, finishes class, finished the lesson",1
+29,下载,xià zài,download,4
+30,下面,xià miàn,"below, bottom side, under",3
+31,不,bù,"doesn't, do not, is not, no, wasn't, wouldn't, don't, didn't, n't, not, cannot, won't, weren't, are not, does not, neither, aren't, isn't, can't",1
+32,不但,bú dàn,not only,2
+33,不准,bù zhǔn,not allowed,0
+34,不好意思,bù hǎo yì sī,"excuse me, sorry",2
+35,不客气,bú kè qì,you are welcome,1
+36,不要,bú yào,"not, don't, no",2
+37,不错,bú cuò,"fine, well, not bad, alright, pretty good, nice",2
+38,专业,zhuān yè,"professional, major",3
+39,世界,shì jiè,world,3
+40,东西,dōng xi,"stuff, food, things, thing, objects, something",1
+41,东边,dōng biān,east side,1
+42,丢,diū,"throw away, lost",5
+43,两,liǎng,"2, two",2
+44,严重,yán zhòng,serious,4
+45,个,gè,"serving, a, servings, one, an",1
+46,个子,gè zi,height,2
+47,中午,zhōng wǔ,noon,1
+48,中国,zhōng guó,"China, Chinese",1
+49,中文,zhōng wén,Chinese,1
+50,中秋节,zhōng qiū jié,Mid-Autumn Festival,5
+51,中间,zhōng jiān,"middle, among, in between, between",1
+52,为,wèi,"is, about, for",2
+53,为了,wèi le,"for, in order to",3
+54,为什么,wèi shén me,why,2
+55,主要,zhǔ yào,mainly,2
+56,久,jiǔ,"long time, long",3
+57,乒乓球,pīng pāng qiú,"table tennis, ping pong",0
+58,九,jiǔ,"9, nine",1
+59,也,yě,"and, either, also, as well as, too, as well",1
+60,习惯,xí guàn,"get used to, have a habit of, habit, custom",2
+61,书,shū,"book, books",1
+62,买,mǎi,"getting, buy, buys, buying, get",1
+63,买单,mǎi dān,"get the check, check",0
+64,了,le,"did, got, anymore",1
+65,了解,li ǎojiě,"learn more, knew, understand, know",4
+66,事,shì,"thing, matter, things",1
+67,事情,shì qing,"thing, task, things, matters, matter",2
+68,二,èr,"the second, 2, two",1
+69,五,wǔ,"five, 5",1
+70,些,xiē,some,4
+71,亲戚,qīn qī,relatives,0
+72,人,rén,"individual, people, person, individuals, human, man",1
+73,什么,shén me,"what, anything, what's, what kind of, everything, which, any",1
+74,今天,jīn tiān,"this, today",1
+75,今年,jīn nián,This year,1
+76,介绍,jiè shào,"presented, introduction, introduce, presents, announce, introduced, present",1
+77,从,cóng,"with, from, ever, at",1
+78,从来,cóng lái,ever,3
+79,他,tā,"his, he, him, he's",1
+80,他们,tā men,"their, them, they",1
+81,以前,yǐ qián,"previously, ago, before",2
+82,以后,yǐ hòu,"after, in the future, later",2
+83,件,jiàn,"pieces of clothing, piece of clothing",2
+84,休息,xiū xi,"break, resting, off, rest, relax",1
+85,会,huì,"will be, knows how to, we will, would, know how to, will, going, can, is going to, might",1
+86,会议,huì yì,"conference, meetings, meeting",3
+87,伞,sǎn,"an umbrella, umbrella",4
+88,伦敦,lún dūn,London,0
+89,但是,dàn shì,"however, but",2
+90,位,wèi,"place, people",2
+91,低,dī,"down, low",2
+92,住,zhù,"living, live, lived, lives, live in",1
+93,体育,tǐ yù,sports,2
+94,体育馆,tǐ yù guǎn,"gym, gymnasium",2
+95,作业,zuò yè,"assignments, production, homework, assignment",2
+96,你,nǐ,"you're, you, you'll, your, you've",1
+97,你们,nǐ men,"you'll, you all, you both, you've, you, your, you guys",1
+98,便宜,pián yi,"cheap, cheaper",2
+99,保持,bǎo chí,"kept, keep",3
+100,保险,bǎo xiǎn,"insurance, insurances",3
+101,信号,xìn hào,signal,2
+102,信心,xìn xīn,"confident, confidence",2
+103,信用卡,xìn yòng kǎ,credit card,2
+104,借,jiè,"borrowed, borrow, borrow from, lend",2
+105,做,zuò,"be, play, made, cooked, work as, do, being, make, cooking, did, creates, doing, as, done, cook, making, to be, makes, create",1
+106,做梦,zuò mèng,"have a dream, dream, dreaming",4
+107,停,tíng,stop,2
+108,健康,jiàn kāng,"healthy, health",2
+109,偷,tōu,steal,5
+110,像,xiàng,"as, like, look, resemble",3
+111,儿子,ér zi,"sons, son",1
+112,元,yuán,"RMB, dollars, Yuan",1
+113,兄弟姐妹,xiōng dì jiě mèi ,siblings,0
+114,充值,chōng zhí,"top up, recharge",0
+115,充电,chōng diàn,charge,4
+116,先,xiān,first,1
+117,先生,xiān sheng,"sir, mr., teacher, husband",1
+118,免,miǎn,no need for,4
+119,免费,miǎn fèi,free,4
+120,八,bā,"8, eight, eighth",1
+121,公共,gōng gòng,public,3
+122,公司,gōng sī,"firm, company",2
+123,公园,gōng yuán,"park, parks, the park",2
+124,公斤,gōng jīn,"kilograms, kilogram, kilos",2
+125,六,liù,"six, 6",1
+126,关,guān,"close, off, turn off, closed",1
+127,关于,guān yú,"of, about, regarding, in",4
+128,关心,guān xīn,"caring, cares for, cares, care for, cares about, care about, care",2
+129,关注,guān zhù,"follow, followed",3
+130,关系,guān xì,"relationships, relation, relations, relationship",3
+131,兴趣,xìng qù,"interests, interest",4
+132,其他,qí tā,"other, else",2
+133,其实,qí shí,actually,3
+134,再,zài,again,1
+135,再见,zài jiàn,"bye, goodbye",1
+136,写,xiě,"writes, writing, write, written, take, wrote",1
+137,冬,dōng,winter,3
+138,冰,bīng,"ice, iced",4
+139,冰箱,bīng xiāng,"fridge, refrigerator",4
+140,决定,jué dìng,"chosen, decision, decided, decisions, decide",3
+141,冷,lěng,"colder, cold",1
+142,准备,zhǔn bèi,"preparation, be ready, preparing, prepare, prepared",1
+143,准时,zhǔn shí,"on time, punctual",4
+144,凉快,liáng kuai,"mild, cool",2
+145,几,jǐ,"what, several, some, a few, how many",1
+146,几乎,jī hū,"almost, nearly",4
+147,出,chū,"go, are sold, out",1
+148,出去,chū qù,"go out, go outside, out",1
+149,出差,chū chāi,"business trip, go on business trip",5
+150,出租车,chū zū chē,"taxi, cab, taxis",2
+151,刀,dāo,"the knife, knives, knife",3
+152,分,fēn,"cents, points, minutes, cent",1
+153,分享,fēn xiǎng,"shared, sharing, share",5
+154,分手,fēn shǒu,"break up, broke up",4
+155,分钟,fēn zhōng,"minutes, minute",2
+156,划,huá,"rowing, paddle, row",4
+157,刚,gāng,just,2
+158,刚才,gāng cái,"just now, just",2
+159,初中,chū zhōng,"junior high school, middle school",3
+160,别,bié,"do not, stop, don't",2
+161,别人,bié ·rén,"anyone else, other people, someone else, others",1
+162,刮,guā,blow,6
+163,到,dào,"get, reach, been, to, arrived, at, arrive, until",1
+164,刷,shuā,"checking, brushes, scroll through, paint, brush, scrolling through, brushed, check",4
+165,刷牙,shuā yá,"brush teeth, teeth brushing",4
+166,刻,kè,"moment, quarter",3
+167,前,qián,"ago, front, ex, ahead, before",1
+168,前天,qián tiān,the day before yesterday,1
+169,前面,qián miàn,"front, straight ahead, the front side, up ahead, the front",3
+170,办公室,bàn gōng shì,"offices, the office, office",2
+171,办法,bàn fǎ,"ways, solutions, solution",2
+172,功夫,gōng fu,kung fu,3
+173,加,jiā,"adds, add, with",2
+174,加拿大,jiā ná dà,Canada,0
+175,加油,jiā yóu,"Press on, Come on",2
+176,加班,jiā bān,"overtime, worked overtime, work overtime",4
+177,动物,dòng wù,"animals, animal",2
+178,努力,nǔ lì,"make an effort, hard, work, work hard, efforts, effort",2
+179,勺子,sháo zi,"spoons, spoon",0
+180,包,bāo,"bags, bag, bag of",1
+181,包子,bāo zi,"steamed bun with fillings, buns, bun",1
+182,北京,běi jīng,Beijing,1
+183,北京烤鸭,běi jīng kǎo yā ,Peking duck,0
+184,北方,běi fāng,"north, Northern",2
+185,北边,běi biān,north side,1
+186,医生,yī shēng,"doctors, doctor, dr.",1
+187,医院,yī yuàn,"the hospital, hospital, hospitals",1
+188,十,shí,"10, ten",1
+189,千,qiān,"thousand, thousands",2
+190,升职,shēng zhí,"promoted, promotion",0
+191,午饭,wǔ fàn,lunch,1
+192,半,bàn,"half an, half a, half",1
+193,华,huá,Hua,5
+194,协议,xié yì,"agreement, contract",5
+195,卖,mài,"sell, sells, selling",2
+196,南方,nán fāng,"southern, south",2
+197,南边,nán biān,"the south, south",1
+198,博物馆,bó wù guǎn,"museums, museum",5
+199,卤肉饭,lǔ ròu fàn,braised pork rice,0
+200,印度,yìn dù,"Indian, india",0
+201,历史,lì shǐ,history,4
+202,压力,yā lì,"pressure, stress",3
+203,厕所,cè suǒ,"toilet, bathrooms, toilets",6
+204,原谅,yuán liàng,forgive,6
+205,厨房,chú fáng,kitchen,5
+206,去,qù,"gone, for, visit, to, going, through, goes, go, get to, went",1
+207,去年,qù nián,"last year, last",1
+208,参加,cān jiā,"to, take part in, enter, attend, participate in",2
+209,参观,cān guān,visit,2
+210,又,yòu,"and, again, both",2
+211,叉,chā,"fork, forks",5
+212,双,shuāng,"both, pairs, double, couple, two, pair, pair of",3
+213,发,fā,"hair, pay, send",2
+214,发烧,fā shāo,fever,4
+215,发现,fā xiàn,"find out, realized, discover, find, discovered, found, finds, realize, discovery",2
+216,发生,fā shēng,"happen, happened",3
+217,发财,fā cái,"become rich, Make a fortune, get rich",0
+218,叔叔,shū shu,uncle,4
+219,取消,qǔ xiāo,cancel,3
+220,受伤,shòu shāng,"injured, injure, hurt",3
+221,变化,biàn huà,"turned, changed, changes, change",3
+222,句子,jù zi,"sentence, sentences",2
+223,只,zhǐ,"only, an order of, just",2
+224,叫,jiào,"is, am, calling, call, are, called",1
+225,可以,kě yǐ,"will, may, could, okay, can",2
+226,可怕,kě pà,"scary, horrible",2
+227,可爱,kě ’ài,cute,2
+228,可能,kě néng,"may, maybe, could, possible, possibility, possibilities, possibly, might",2
+229,台湾,tái wān,Taiwan,0
+230,右,yòu,right,1
+231,右边,yòu bian,"the right, right",1
+232,号,hào,"date, day of the month",1
+233,号码,hào mǎ,number,4
+234,司机,sī jī,driver,2
+235,吃,chī,"ate, eating, eaten, had, eats, eat, foodies, take, have, having",1
+236,吃货,chī huò,"foodies, foodie",0
+237,合作,hé zuò,"collaborate, cooperation",3
+238,合同,hé tong,"contracts, contract",4
+239,同事,tóng shì,"colleague, colleagues",2
+240,同学,tóng xué,"classmates, classmate",1
+241,同意,tóng yì,"agree with, say yes, agree, agreed",3
+242,名字,míng zi,"first name, names, name",1
+243,后,hòu,"after, back, in",1
+244,后天,hòu tiān,the day after tomorrow,1
+245,后来,hòu lái,"later, afterwards",2
+246,后面,hòu miàn,"behind, after, back",3
+247,向,xiàng,"to, towards, from",2
+248,吗,ma,"do, is, does, are, were, was",1
+249,吧,ba,let's,1
+250,听,tīng,"hears, listened, hear, listening, listen to, listens, listen",1
+251,告诉,gào su,"tells, tell, told",1
+252,呢,ne,"how about, what about",1
+253,周围,zhōu wéi,around,3
+254,周末,zhōu mò,"weekends, weekend, on the weekend",2
+255,味道,wèi dào,"taste, flavor",2
+256,和,hé,"and, to, with",1
+257,咖啡,kā fēi,coffee,3
+258,咖啡馆,kā fēi guǎn,"coffee shop, cafe, the coffee shop, cafu00e9",0
+259,咨询,zī xún,consultation,6
+260,咳嗽,hāi sòu,cough,0
+261,咸,xián,salty,4
+262,哥哥,gē gē,"brothers, brother",0
+263,哪,nǎ,"every, what, where, which",1
+264,哪儿,nǎ r,where,1
+265,哪里,nǎ lǐ,where,1
+266,哭,kū,"cry, cried, crying",2
+267,唱,chàng,"sing, sang",1
+268,商店,shāng diàn,"shop, shops, stores, store",1
+269,商量,shāng liang,discuss,2
+270,啊,a,ah,2
+271,啤酒,pí jiǔ,"beer, beers",3
+272,喂,wèi,Hello,1
+273,喜欢,xǐ huan,"enjoy, love, like, likes, loves, enjoys",1
+274,喝,hē,"drunk, drink, had, eat, drank, drinking, gets, having, drinks",1
+275,嘴巴,zuǐ ba,mouth,4
+276,四,sì,"four, 4",1
+277,回,huí,"replied, return, going, come, back",1
+278,回复,huí fù,"replied, reply, respond, answering",4
+279,回答,huí dá,"respond, answering, answers, answered, answer, response",1
+280,因为,yīn wèi,"because, so, because of, for",2
+281,囧,jiǒng,Jiong,0
+282,国,guó,country,1
+283,国内,guó nèi,domestic,3
+284,国家,guó jiā,"country, national, countries",1
+285,国际,guó jì,international,2
+286,图书馆,tú shū guǎn,"libraries, a library, library",1
+287,圆,yuán,round,4
+288,土豪,tǔ háo,"local tycoon, provincial tycoon",0
+289,在,zài,"on, for, is, to, is located, are, in, during, was, at",1
+290,地,de,"land, floor",1
+291,地图,dì tú,"maps, map",1
+292,地址,dì zhǐ,address,4
+293,地方,dì fang,"local, place, site, places",1
+294,地理,de lǐ,geography,0
+295,地铁,dì tiě,subway,2
+296,坏,huài,bad,1
+297,坐,zuò,"use, sitting, taking, sit, by, take, am sitting, sits, ride, sat",1
+298,块,kuài,"piece, Yuan, piece of, pieces of, pieces",1
+299,垃圾,lā jī,trash,4
+300,城市,chéng shì,"city, cities",3
+301,堵车,dǔ chē,"traffic, the traffic, traffic jams",4
+302,声音,shēng yīn,"sound, voice, noise",2
+303,复习,fù xí,"review, revise",2
+304,夏,xià,summer,3
+305,外,wài,"outside, out, foreign",1
+306,外面,wài miàn,"outside, out",3
+307,多,duō,"often, how, how many, a lot, much, more than, more",1
+308,多么,duō me,so,2
+309,多儿,duō ér,Duo,0
+310,多少,duō shao,"how much, what, what's, how many",1
+311,多邻国,duō lín guó,Duolingo,0
+312,大,dà,"heavy, great, older, big, large, loudly, loud, bigger, more",1
+313,大学,dà xué,"universities, university, college",1
+314,大家,dà jiā,everyone,2
+315,大概,dà gài,"almost, probably, about, approximately",3
+316,大约,dà yuē,"about, approximately",3
+317,天,tiān,"sky, days, day, it",1
+318,天气,tiān qì,"it's, weather, it, the weather",1
+319,太,tài,"very, so, too",1
+320,太阳,tài yáng,sun,2
+321,失望,shī wàng,disappointed,4
+322,头,tóu,head,3
+323,头发,tóu fa,hair,2
+324,奇怪,qí guài,strange,3
+325,奖金,jiǎng jīn,"bonus, bonuses",4
+326,女,nǚ,women,1
+327,女儿,nǚ ’ér,"girl, daughter, daughters",1
+328,奶奶,nǎi nai,"grandmother, grandmothers, grandma",1
+329,她,tā,"she's, she, her",1
+330,她们,tā men,"them, they",1
+331,好,hǎo,"and, great, good, OK, well, better, yes, nice, fine, cool",4
+332,好久不见,hǎo jiǔ bù jiàn ,Long time no see,0
+333,好友,hǎo yǒu,friend,4
+334,好吃,hǎo chī,"good, tasty, delicious",1
+335,好喝,hǎo hē,"good, tasty, tastiest",0
+336,好在,hǎo zài,luckily,0
+337,好看,hǎo kàn,"beautiful, prettiest, good-looking, pretty",1
+338,好笑,hǎo xiào,"funny, funniest",0
+339,如果,rú guǒ,if,2
+340,妈妈,mā mā,"mum, Mom, mother",0
+341,妹妹,mèi mèi,"sisters, sister, little sister, younger sister",0
+342,妻子,qī zi,"wives, wife",4
+343,姐姐,jiě jiě,"sisters, sister",0
+344,姓,xìng,"last name, last name is",2
+345,字,zì,"word, character, words",1
+346,季节,jì jié,"seasons, season",4
+347,学,xué,"study, done, learning, learn, have been learning, has been learning",1
+348,学习,xué xí,"studying, study, studied, learning, learn, learned, studies",1
+349,学校,xué xiào,"schools, school",1
+350,学生,xué sheng,"students, student",1
+351,孩子,hái zi,"kids, children, kid, child",1
+352,它,tā,"it, it's, that, its, it'll",2
+353,宅男,zhái nán,otaku,0
+354,安全,ān quán,"security, safe, safety",2
+355,安排,ān pái,"plan, planned, arrange",3
+356,安静,ān jìng,"quieter, be quiet, quiet",2
+357,完,wán,"have finished, finished, finish, finishes, finishing",2
+358,完成,wán chéng,"finished, finish, complete",2
+359,客人,kè rén,"guest, guests",2
+360,客厅,kè tīng,living room,5
+361,宫保鸡丁,gōng bǎo jī dīng ,Kung Pao Chicken,0
+362,害怕,hài pà,"has a fear of, fear, afraid, be afraid of",3
+363,家,jiā,"house, homes, place, family, home",1
+364,家人,jiā rén,"families, family",1
+365,容易,róng yì,"easily, easy",3
+366,密码,mì mǎ,password,4
+367,寒假,hán jià,"winter holiday, winter holidays",4
+368,对,duì,"about, right, for, couple, regarding, to, pair of, yes, with, correct",1
+369,对不起,duì bu qǐ,"sorry, I'm sorry, I am sorry",1
+370,导游,dǎo yóu,"tour guide, guide",4
+371,小,xiǎo,"small, down, little, smaller, less",1
+372,小姐,xiǎo jiě,Miss,1
+373,小学,xiǎo xué,"elementary school, primary school, primary",1
+374,小心,xiǎo xīn,"Watch out, be careful with, careful, be careful",2
+375,小时,xiǎo shí,"hours, hour",1
+376,小笼包,xiǎo lóng bāo,"steamed pork dumplings, Xiaolongbao, soup dumpling",0
+377,小费,xiǎo fèi,tip,6
+378,少,shǎo,"few, little, less",1
+379,就,jiù,"then, just",1
+380,尽快,jǐn kuài,"as soon as possible, soon",4
+381,层,céng,"floors, floor",2
+382,岁,suì,"years old, ages",1
+383,工作,gōng zuò,"task, jobs, working, work, job, works",1
+384,工资,gōng zī,"salary, pay, salaries",3
+385,左,zuǒ,left,1
+386,左边,zuǒ bian,left side,1
+387,巧克力,qiǎo kè lì,chocolate,4
+388,差,chà,worse,1
+389,已经,yǐ jīng,already,2
+390,帅,shuài,"good-looking, handsome",4
+391,希望,xī wàng,"wish, wishes, hope",3
+392,带,dài,"takes, taking, carry, bring, carries, take, taken, bringing",2
+393,帮,bāng,"helping, helped, help",1
+394,帮助,bāng zhù,"helping, helps, help",2
+395,帮忙,bāng máng,"favor, help, help out",1
+396,帽子,mào zi,"hats, caps, hat, cap, a hat",4
+397,干,gān,"cheers, do, doing, dry",1
+398,干净,gān jìng,"cleaner, clean",1
+399,干杯,gān bēi,"cheers, toast, drink to",2
+400,干燥,gàn zào,dry,0
+401,年,nián,"year, years",1
+402,年级,nián jí,grade,2
+403,年轻,nián qīng,"youth, younger, young",2
+404,广告,guǎng gào,"advertisements, ads, advertisement, ad",2
+405,应用,yìng yòng,"apply, app, apps",3
+406,应该,yīng gāi,should,2
+407,度,dù,"degrees, temperature",2
+408,开,kāi,"drive, open, drives, turn on, opening",1
+409,开会,kāi huì,"have meetings, have a meeting, meeting",1
+410,开始,kāi shǐ,"begins, begin, started, starts, start, starting",3
+411,开车,kāi chē,"drove, drive, driving",1
+412,弟弟,dì dì,"little brother, younger brother, brothers, brother",0
+413,张,zhāng,"sheet of, sheets, Zhang",3
+414,当然,dāng rán,"of course, sure, definitely",3
+415,影响,yǐng xiǎng,"affect, bother, effect, disturb",2
+416,往,wǎng,"turn, towards, towards/toward/to",2
+417,很,hěn,"dancing, very, is, am, a lot, so, are, pretty, was, really",1
+418,律师,lǜ shī,"lawyers, lawyer",4
+419,得,dé,"need to, need, get",2
+420,微信,wēi xìn,WeChat,4
+421,微博,wēi bó,Weibo,5
+422,德国,dé guó,"German, Germany",0
+423,必须,bì xū,"need, have to, needs, has to, must",2
+424,忘,wàng,forget,1
+425,忘记,wàng jì,"forget, forgot",1
+426,忙,máng,busy,1
+427,快,kuài,"almost, soon, fast, quickly, quick, coming up",1
+428,快乐,kuài lè,Happy,2
+429,怎么,zěn me,how,1
+430,怎么办,zěn me bàn,What to do?,2
+431,怎么样,zěn me yàng,"how about, what, how's, how's it going, how, how are things?, what about",2
+432,总是,zǒng shì,always,3
+433,恭喜,gōng xǐ,Congratulations,0
+434,您,nín,"you, your",1
+435,想,xiǎng,"wants, would like, think about, would, want to, thinks, thought, miss, think",1
+436,愉快,yú kuài,"pleasant, good, nice, happy",6
+437,意外,yì wài,accident,3
+438,意大利,yì dà lì,"Italy, Italian",0
+439,意思,yì si,"meaning, mean",2
+440,意见,yì jiàn,"opinion, mind",2
+441,感兴趣,gǎn xìng qù,"be interested in, interested",4
+442,感冒,gǎn mào,"cold, colds",3
+443,感谢,gǎn xiè,"please, thanks, thank",2
+444,愿意,yuàn yì,will,2
+445,慢,màn,"slow, slowly",1
+446,懂,dǒng,"understood, understands, understand",2
+447,懒,lǎn,lazy,6
+448,成绩,chéng jì,"grade, grades",2
+449,我,wǒ,"I, I am, my, me",1
+450,我们,wǒ men,"our, we, us",1
+451,或者,huò zhě,or,2
+452,戴,dài,"wearing, wear, is wearing, wore, wears",4
+453,房间,fáng jiān,"bedrooms, rooms, room",1
+454,所以,suǒ yǐ,so,2
+455,手,shǒu,"hand, hands",1
+456,手机,shǒu jī,"cellphones, cellphone, cell phones, phones, phone, cell phone",1
+457,手表,shǒu biǎo,"watch, watches",2
+458,才,cái,"only, only able to",3
+459,打,dǎ,"play, plays, played, beat, hitting, hit, playing",4
+460,打扫,dǎ sǎo,"cleaning up, clean-up, cleans, clean, cleaned",4
+461,打扮,dǎ ban,"dressed, dress up",5
+462,打折,dǎ zhé,"discount, discounted, on sale",4
+463,打算,dǎ suàn,"going to, planning, planning to",2
+464,打车,dǎ chē,"get a taxi, get a cab",1
+465,找,zhǎo,"look, looked, ask, look for, find, looking for",1
+466,把,bǎ,"pair of, have",3
+467,投资,tóu zī,"invest, invest in, investment, investments",4
+468,护照,hù zhào,"passports, passport",2
+469,报告,bào gào,"report, presentation, reports",3
+470,报纸,bào zhǐ,"newspaper, newspapers, papers",2
+471,报警,bào jǐng,call the police,5
+472,报销,bào xiāo,"reimburse, reimbursed",0
+473,抱歉,bào qiàn,"apologies, sorry, I'm sorry",6
+474,抽烟,chōu yān,smoke,4
+475,担心,dān xīn,"worries, worry about, worrying, worry, worried",4
+476,拉面,lā miàn,"ramen noodle, ramen",0
+477,拍照,pāi zhào,"taking pictures, photography",4
+478,拿,ná,"hold, takes, get, taking, took, pick up, take, holding, pick, carry, gets",1
+479,换,huàn,"get changed, changes, swap, change, exchange",2
+480,换钱,huàn qián,exchange money,0
+481,排球,pái qiú,volleyball,2
+482,接,jiē,"catch, catching, pick up, accept, pick",2
+483,提醒,tí xǐng,"remind, reminders, figure",4
+484,提高,tí gāo,"increase, improve",2
+485,搬,bān,"move, moving",3
+486,收,shōu,"accepted, take",2
+487,收据,shōu jù,receipt,0
+488,放,fàng,"set off, puts, keep, place, sets, put, putting, leaving",1
+489,放假,fàng jià,"break, vacation",1
+490,放学,fàng xué,finish school,1
+491,放弃,fàng qì,give up,5
+492,放心,fàng xīn,relax,2
+493,放松,fàng sōng,relax,4
+494,故事,gù shi,"story, stories",2
+495,故宫,gù gōng,The Forbidden City,0
+496,救命,jiù mìng,help,6
+497,救护车,jiù hù chē,ambulance,0
+498,教,jiāo,"teach, taught, teaches",1
+499,教室,jiào shì,"classroom, classrooms, class",2
+500,数学,shù xué,"mathematics, math",0
+501,整,zhěng,"sharp, all, whole",3
+502,文化,wén huà,"culture, cultural, cultures",3
+503,新,xīn,new,1
+504,新年,xīn nián,New Year's,1
+505,新闻,xīn wén,"news, the news",2
+506,新鲜,xīn xiān,fresh,4
+507,方便,fāng biàn,convenient,2
+508,旁边,páng biān,"next to, by",1
+509,旅游,lǚ yóu,"travels, travel, travelling, traveling, traveled",2
+510,日,rì,"date, days",1
+511,日本,rì běn,"Japan, Japanese",0
+512,旧,jiù,"old, older",3
+513,早,zǎo,"early, soon, morning",1
+514,早上,zǎo shang,"mornings, a.m., morning",1
+515,早安,zǎo ān,Good morning,0
+516,早饭,zǎo fàn,breakfast,1
+517,时候,shí hou,"while, times, time",1
+518,时差,shí chà,jet lag,0
+519,时间,shí jiān,"hours, days, hour, time",1
+520,明,míng,"next, Ming",1
+521,明天,míng tiān,tomorrow,1
+522,明年,míng nián,next year,1
+523,明星,míng xīng,"celebrity, star",2
+524,明白,míng bai,"understand, see, sees",1
+525,星星,xīng xing,"star, stars",2
+526,星期,xīng qī,"week, weeks",1
+527,春,chūn,spring,3
+528,春卷,chūn juǎn,"spring roll, spring rolls",0
+529,春节,chūn jié,"the Spring Festival, Chinese New Year",2
+530,昨天,zuó tiān,yesterday,1
+531,是,shì,"be, is, am, are, were, yes, was",1
+532,晚,wǎn,"late, evening, night",1
+533,晚上,wǎn shang,"night, evening, evenings, p.m.",1
+534,晚安,wǎn ān,good night,2
+535,晚饭,wǎn fàn,"dinner, supper",1
+536,晴,qíng,"clear, sunny",2
+537,暑假,shǔ jià,"summer holiday, summer holidays",4
+538,暖和,nuǎn huo,warm,3
+539,更,gèng,"even, is even, are even, more",2
+540,最,zuì,"most, the most",1
+541,最后,zuì hòu,"end, lastly, last, final, eventually",1
+542,最近,zuì jìn,"these days, recently",2
+543,月,yuè,"months, month",1
+544,月亮,yuè liang,moon,2
+545,月饼,yuè bǐng,"mooncakes, mooncake",5
+546,有,yǒu,"be, there are, for, get, comes in, of, is, there, had, does, there was, there's, have, it's, got, come in, has, with, having, there is",1
+547,有名,yǒu míng,famous,1
+548,有点儿,yǒu diǎn ér,a little,0
+549,朋友,péng you,"a friend, friends, friend",1
+550,朋友圈,péng yǒu quān,Moments,0
+551,服务员,fú wù yuán,"waiter, waitress, waiters",0
+552,本,běn,Ben,1
+553,机会,jī huì,"chance, opportunity, opportunities, offer",2
+554,机场,jī chǎng,"airport, the airport",1
+555,机票,jī piào,plane ticket,1
+556,李,lǐ,Li,3
+557,条,tiáo,"pair of, pair",2
+558,来,lái,"from, been, to, here, coming, come, came",1
+559,杯,bēi,"cups of, glasses, glass, cup",1
+560,杯子,bēi zi,"glass, cups, cup",1
+561,极,jí,pole,4
+562,果汁,guǒ zhī,juice,3
+563,柜台,guì tái,counter,0
+564,树,shù,"the tree, tree, trees",1
+565,校长,xiào zhǎng,principal,2
+566,根据,gēn jù,"based on, evidence",4
+567,桌子,zhuō zi,"the table, tables, table, desk",1
+568,桶,tǒng,bin,4
+569,检查,jiǎn chá,"checked, check",2
+570,椅子,yǐ zi,"chairs, chair",2
+571,楼,lóu,"building, floor",1
+572,橙,chéng,orange,6
+573,次,cì,"time, times",2
+574,欢迎,huān yíng,"welcome, greets, welcomes",2
+575,歌,gē,"song, songs",1
+576,正在,zhèng zài,right now,1
+577,步,bù,step,3
+578,死,sǐ,"die, died, dying",3
+579,段,duàn,period,2
+580,每,měi,"every single, every, per, each",3
+581,比,bǐ,than,1
+582,比赛,bǐ sài,"play, contest, competition, competitions, game, race, match",3
+583,比较,bǐ jiào,"rather, relatively, more",3
+584,毛,máo,ten cents,4
+585,水,shuǐ,water,1
+586,水平,shuǐ píng,"proficiency, skills, skill, level",2
+587,水果,shuǐ guǒ,"fruit, fruits",1
+588,汇报,huì bào,report,4
+589,汉字,hàn zì,"character, Chinese character, Chinese characters",1
+590,汉语,hàn yǔ,Chinese,1
+591,汤圆,tāng yuán,"glutinous rice balls, sweet dumplings, rice balls, rice ball, glutinous rice ball",0
+592,汽车,qì chē,"cars, car",1
+593,没,méi,"doesn't, don't, didn't, without, not, aren't, fine, isn't",1
+594,没关系,méi guān xi,"never mind, it's OK, ok, no problem",1
+595,油条,yóu tiáo,"deep-friend dough sticks, deep-fried dough stick",0
+596,法国,fǎ guó,"French, France",0
+597,注意,zhù yì,"careful, attention, pay attention to",3
+598,泳,yǒng,swim,2
+599,洗,xǐ,"wash, washes",1
+600,洗手间,xǐ shǒu jiān,"toilet, bathroom, bathrooms, toilets, restrooms, restroom",1
+601,洗澡,xǐ zǎo,"shower, showered, take shower, taking a shower, bath",2
+602,活动,huó dòng,"activities, activity",2
+603,派对,pài duì,party,0
+604,流利,liú lì,fluent,2
+605,浪漫,làng màn,romantic,5
+606,海关,hǎi guān,customs,3
+607,海边,hǎi biān,"seaside, sea",2
+608,清楚,qīng chu,"clear, sure, clearly",2
+609,温度,wēn dù,temperature,2
+610,渴,kě,thirsty,1
+611,游,yóu,swim,3
+612,游戏,yóu xì,"game, games",3
+613,游泳,yóu yǒng,"swim, swims, swimming",3
+614,满意,mǎn yì,"pleasure, be happy with, satisfied",2
+615,漂亮,piào liang,"beautiful, nice, prettier, pretty, beautifully",2
+616,漫游,màn yóu,roaming,0
+617,澳大利亚,ào dà lì yǎ,Australia,0
+618,火车,huǒ chē,"train, trains",1
+619,火锅,huǒ guō,hot pot,0
+620,灯,dēng,"the light, light, lamp, lights",2
+621,炒饭,chǎo fàn,fried rice,0
+622,点,diǎn,"little, ordered, o'clock, ordering, point, order, points, something, click",1
+623,点心,diǎn xīn,dim sum,0
+624,点菜,diǎn cài,order,0
+625,热,rè,"heat, hotter, hot",1
+626,热情,rè qíng,"affectionate, warm-hearted, warmly",2
+627,然后,rán hòu,"and, then",2
+628,照片,zhào piàn,"photographs, picture, photograph, pictures, photos, photo",2
+629,照相机,zhào xiāng jī,camera,0
+630,照顾,zhào gù,"care, look after, take care of",2
+631,熊猫,xióng māo,"pandas, panda",0
+632,爬山,pá shān,"go hiking, hiking",2
+633,爱,ài,"loved, love, in love with, loves",1
+634,爱好,ài hào,"interests, hobby, hobbies",1
+635,父母,fù mǔ,parents,3
+636,爷爷,yé ye,"grandfathers, grandpa, grandfather",1
+637,爸爸,bà bà,"dad, father",0
+638,版权,bǎn quán,copyright,0
+639,牛奶,niú nǎi,milk,1
+640,牛肉,niú ròu,beef,0
+641,特别,tè bié,"especially, special",2
+642,狗,gǒu,"the dog, dogs, dog",2
+643,猪肉,zhū ròu,pork,0
+644,猫,māo,"cats, cat",2
+645,猫头鹰,māo tóu yīng,"owl, owls",0
+646,王,wáng,"king, Wang",4
+647,玩,wán,"play, played, plays, playing, play with",2
+648,环境,huán jìng,surrounding,3
+649,现在,xiàn zài,"sharp, now, currently, right now, it",1
+650,现金,xiàn jīn,cash,3
+651,珍珠奶茶,zhēn zhū nǎi chá ,Pearl milk tea,0
+652,班,bān,"ben, class",1
+653,瓶,píng,"bottles of, bottles, bottle",2
+654,瓶子,píng zi,"bottles, bottle",2
+655,甜,tián,"sweet, sweeter",3
+656,甜点,tián diǎn,"dessert, desserts",0
+657,生意,shēng yi,business,3
+658,生日,shēng rì,"birthdays, birthday, date of birth",1
+659,生气,shēng qì,"angry, mad, rage",1
+660,生病,shēng bìng,sick,1
+661,用,yòng,"use, used, took, uses, take, in, using, with, spend",1
+662,电子邮件,diàn zǐ yóu jiàn,"the email, email, emails",3
+663,电影,diàn yǐng,"movie, a film, movies, a movie, films, film",1
+664,电梯,diàn tī,"elevators, elevator",4
+665,电脑,diàn nǎo,"computers, computer",1
+666,电视,diàn shì,"TV, the television, television, TV shows, TV show",1
+667,电话,diàn huà,"phones, number, call, telephone, phone",1
+668,电话卡,diàn huà kǎ,phone card,0
+669,男,nán,"boy, male",1
+670,画,huà,"picture, draw, draws, paintings, paints, paint, pictures, painting",2
+671,留,liú,"staying, leaves, stayed, leaving, leave, stay, left",2
+672,留学,liú xué,"studying abroad, study abroad",3
+673,疼,téng,"hurt, painful, hurts",2
+674,瘦,shòu,thin,5
+675,登录,dēng lù,log in,4
+676,白,bái,white,2
+677,白酒,bái jiǔ,"white wine, Baijiu",5
+678,百,bǎi,hundred,1
+679,的,de,"on, about, who, 's, for, whose, did, of, that, to, from, at, which, in, where, with",1
+680,皮鞋,pí xié,leather shoes,5
+681,盐,yán,salt,4
+682,盘子,pán zi,"dish, plate, dishes, plates",4
+683,相信,xiāng xìn,"believed, trust, believe, believe in, believes",2
+684,看,kàn,"seeing, reading, look, watching, read, look at, watch, see, watches, looked, reads, looks, watched, looking",1
+685,看起来,kàn qǐ lái,"look, look like, seems, looked, looks, appears",3
+686,真,zhēn,"real, very, so, really",1
+687,眼睛,yǎn jing,eyes,2
+688,眼镜,yǎn jìng,glasses,4
+689,着,zhe,write,1
+690,着急,zhá ojí,"anxious, worried",4
+691,睡觉,shuì jiào,"slept, sleep, go to bed, sleeps, sleeping",1
+692,知道,zhī dào,"known, knew, knows, know",1
+693,短,duǎn,short,2
+694,短信,duǎn xìn,"text message, text, text messages, texts",2
+695,矮,ǎi,short,4
+696,碗,wǎn,"bowl, bowl of, a bowl, bowls",2
+697,礼物,lǐ wù,"gifts, presents, present, gift, a gift",2
+698,祝,zhù,"may, wish",3
+699,票,piào,"tickets, vote, ticket, votes",1
+700,离,lí,"to, away, from",2
+701,离开,lí kāi,"from, leaves, leaving, leave, away, left",2
+702,秋,qiū,Autumn,3
+703,种,zhǒng,"sort of, kind, kinds, grow, growing, type, grows, minute",3
+704,科学,kē xué,science,2
+705,秒,miǎo,"seconds, second",5
+706,空,kōng,"sky, free, time",3
+707,空调,kōng tiáo,"air conditioner, air-conditioning",3
+708,穿,chuān,"wearing, wears, wear, puts, wore",1
+709,突然,tū rán,"suddenly, unexpectedly",3
+710,站,zhàn,"standing, station, stop, stand, stops",2
+711,端午节,duān wǔ jié,the Dragon Boat Festival,6
+712,笑,xiào,"smiles, laugh, laughs, laughing, smiled, smile",1
+713,笔,bǐ,"pen, pens",2
+714,笔记,bǐ jì,"notes, the notes",2
+715,笔记本,bǐ jì běn,notebook,2
+716,第,dì,"Number, No.",2
+717,等,děng,"waiting, have been waiting, wait for, wait",2
+718,筷子,kuài zi,chopsticks,2
+719,签名,qiān míng,"signs, signature, sign",5
+720,签证,qiān zhèng,"visas, visa",5
+721,简单,jiǎn dān,"simple, easy",3
+722,篮球,lán qiú,basketball,2
+723,米,mǐ,"rice, meters, meter",1
+724,米饭,mǐ fàn,rice,1
+725,粉丝,fěn sī,"follower, fan, fans",0
+726,粥,zhōu,"porridge, congee",6
+727,粽子,zòng zi,"sticky rice dumplings, zongzi, sticky rice dumpling",0
+728,糖,táng,"candy, sugar",3
+729,紧张,jǐn zhāng,nervous,3
+730,紫,zǐ,purple,5
+731,累,lèi,tired,1
+732,红,hóng,red,2
+733,红包,hóng bāo,"red envelope, red envelopes",4
+734,红绿灯,hóng lǜ dēng,traffic light,0
+735,红酒,hóng jiǔ,red wine,3
+736,约会,yuē huì,"date, dates, dating, appointment",4
+737,纸,zhǐ,"paper, papers",2
+738,纽约,niǔ yuē,New York,0
+739,练习,liàn xí,"practice, play, practices, practicing, practiced",2
+740,终于,zhōng yú,finally,3
+741,经常,jīng cháng,often,2
+742,经理,jīng lǐ,manager,2
+743,经过,jīng guò,"past, go past, walk by, passed",2
+744,结婚,jié hūn,"marry, get married, married",3
+745,结束,jié shù,"ends, finish, end, over, ended, finished",3
+746,给,gěi,"give, for, offer, pay, get, show, to, can, put, gave, bring, gives",1
+747,绿,lǜ,green,2
+748,网球,wǎng qiú,tennis,2
+749,羊肉,yáng ròu,lamb,0
+750,美国,měi guó,"the United States, the U.S., the USA, American, the US, America",0
+751,美图,měi tú,Meitu,0
+752,美术,měi shù,art,3
+753,美眉,měi méi,"beautiful girl, pretty girl, pretty girls",0
+754,羽毛,yǔ máo,feathers,0
+755,翻译,fān yì,"translation, translate",4
+756,老,lǎo,"old, elderly, older",1
+757,老师,lǎo shī,"teachers, teacher",1
+758,老板,lǎo bǎn,"bosses, boss",3
+759,考,kǎo,take exam,1
+760,考试,kǎo shì,"test, tests, exams, exam",1
+761,而且,ér qiě,"and, also, but also",2
+762,耳朵,ěr duo,"ear, ears",5
+763,聊天,liáo tiān,"chat, have a chat, chatting, talk",0
+764,联系,lián xì,"keep in touch, reached, contact",3
+765,聚会,jù huì,"party, gathering, reunion, parties",4
+766,聪明,cōng ming,"intelligent, smart",5
+767,肉,ròu,meat,1
+768,肚子,dù zi,stomach,4
+769,胖,pàng,fat,3
+770,能,néng,"will, could, able to, can",1
+771,脏,zāng,dirty,2
+772,脚,jiǎo,"foot, feet",2
+773,脸,liǎn,face,2
+774,腿,tuǐ,"legs, leg",2
+775,自己,zì jǐ,"myself, himself, by myself, itself, themselves, herself, ourselves",2
+776,自拍,zì pāi,"take a selfie, selfie, taking selfies",0
+777,自行车,zì xíng chē,"bikes, bicycles, bike, bicycle",2
+778,舒服,shū fu,"well, cozy, cosy, comfortable",2
+779,船,chuán,"boats, ferry, ship, ships, boat",2
+780,色,sè,color,4
+781,节日,jié rì,"festival, holiday, Holidays",2
+782,节目,jié mù,"show, program, shows, programs",2
+783,花,huā,"flower, takes, spent, spends, take, flowers, spend",3
+784,苦,kǔ,"hard, bitter",4
+785,英国,yīng guó,"the UK, England, British, the United Kingdom",0
+786,英文,yīng wén,English,2
+787,英语,yīng yǔ,English,2
+788,苹果,píng guǒ,"apples, apple",3
+789,茶,chá,tea,1
+790,草,cǎo,"straw, grass",2
+791,药,yào,"medicine, medicines",2
+792,菜,cài,"cuisine, dishes, food, cuisines, vegetables, foods, dish",1
+793,菜单,cài dān,menu,2
+794,菜鸟,cài niǎo,beginner,0
+795,萌,méng,cute,6
+796,蓝,lán,blue,2
+797,蔬菜,shū cài,"vegetable, vegetables",5
+798,虽然,suī rán,"although, though",2
+799,蛋糕,dàn gāo,"cake, cakes",5
+800,行,xíng,"okay, ok, fine",1
+801,行李,xíng lǐ,luggage,3
+802,街道,jiē dào,"street, streets, way around",4
+803,衣服,yī fu,"clothing, clothes",1
+804,表演,biǎo yǎn,"performance, performed, show",3
+805,表现,biǎo xiàn,performance,3
+806,衬衫,chèn shān,"shirt, shirts",3
+807,袋,dài,"bag, bag of",4
+808,袋子,dài zi,bag,0
+809,被,bèi,"is, was, by, were",3
+810,裙子,qún zi,"dress, skirt, skirts, dresses",3
+811,裤子,kù zi,"trousers, pants",3
+812,西安,xī ān,Xi'an,0
+813,西班牙,xī bān yá,"Spain, Spanish",0
+814,西班牙语,xī bān yá yǔ,"spanish language, spanish",6
+815,西瓜,xī guā,"watermelons, watermelon",4
+816,西边,xī biān,west,1
+817,要,yào,"wants, would like, asks, ask for, takes, get, have to, ask, needs, should, will, to, take, want, need, is going to, wanted, must",2
+818,要求,yāo qiú,"demands, standard, requests, standards",2
+819,见,jiàn,"meet, see",1
+820,见面,jiàn miàn,"meet, met, meeting, meet up",1
+821,观光,guān guāng,sightseeing,6
+822,觉得,jué de,"think about, feel, thinks, feels, feeling, think",1
+823,角,jiǎo,"corner, Jiao",2
+824,解决,jiě jué,"resolved, solved, resolve, solve",3
+825,警察,jǐng chá,"policemen, police, police officer, policeman",3
+826,订位,dìng wèi,"book a table, booked, make a reservation",0
+827,订房,dìng fáng,"room booking, book a room",0
+828,认为,rèn wéi,"thought, thinks, think, assumes, consider",2
+829,认真,rèn zhēn,"serious, seriously!",1
+830,认识,rèn shi,"meet, knew, know, recognize",1
+831,让,ràng,"makes, lets, made, let, allow",2
+832,记得,jì dé,"remembered, remembering, remember",1
+833,讲,jiǎng,"spoken, talk about, talking, speaking, tell, talk, speak",2
+834,评论,píng lùn,"comment, reviews, review, comments",5
+835,词典,cí diǎn,"dictionaries, dictionary",2
+836,试,shì,"try, tries, tried",1
+837,语法,yǔ fǎ,grammar,4
+838,语言,yǔ yán,"languages, language",2
+839,误会,wù huì,"misunderstanding, misunderstand, misunderstood",4
+840,说,shuō,"saying, talked, says, spoke, spoken, talking, say, said, speaking, speaks, tell, talk, speak",1
+841,说话,shuō huà,"talked, spoke, spoken, talking, talk, talks, speaking, speak",1
+842,请,qǐng,"invited, please, treat, invite",1
+843,请假,qǐng jià,"take leave, take a day off",1
+844,请问,qǐng wèn,"Excuse me, may I ask",1
+845,读,dú,"read, reads, reading",1
+846,课,kè,"lessons, course, classes, lesson, class, the course",1
+847,谁,shéi,"whom, who",1
+848,谈,tán,"talk about, chat, talking about, discussing, discuss, talk",3
+849,谢谢,xiè xie,"thank you, please, thanks, thank",1
+850,豆浆,dòu jiāng ,soy milk,0
+851,豆花,dòu huā,"tofu pudding, tofu puddings",0
+852,责任,zé rèn,"responsibilities, responsibility",3
+853,质量,zhì liàng,"quality, mass",4
+854,贵,guì,"honorable, honorable's, expensive, your",1
+855,费用,fèi yòng,"cost, costs",3
+856,资本,zī běn,capital,5
+857,赞,zàn,like,5
+858,赢,yíng,"win, won, wins",3
+859,走,zǒu,"walking, leaves, walked, walk, leave, going, walks, go, left",1
+860,走路,zǒu lù,"walked, walk",1
+861,起床,qǐ chuáng,"gets up, get up",1
+862,起飞,qǐ fēi,"taking off, take off",2
+863,超市,chāo shì,"supermarkets, supermarket",2
+864,越来越,yuè lái yuè,"more and more, getting",2
+865,足球,zú qiú,"soccer, football",3
+866,跑,pǎo,"ran, runs, run, running",1
+867,跑步,pǎo bù,"runs, run, running",3
+868,跟,gēn,"and, to, with, against",1
+869,路,lù,"roads, streets, road, the way",1
+870,跳舞,tiào wǔ,"dance, dances, danced, dancing",3
+871,踢,tī,"kicking, play, plays, kick",6
+872,身体,shēn tǐ,"body, health, bodies",1
+873,车,chē,"cars, transportation, car, vehicle",1
+874,转发,zhuǎn fā,forward,0
+875,转机,zhuǎn jī,"transfer, change planes",0
+876,轻松,qīng sōng,"easily, relaxed, relax",4
+877,辆,liàng,a,2
+878,输,shū,"lost, lose",3
+879,辛苦,xīn kǔ,"suffering, hard",5
+880,辣,là,"hot, spicy",4
+881,过,guò,"over, cross, yet, pass, ever, spend, celebrate",1
+882,过去,guò qù,"past, pass",0
+883,运动,yùn dòng,"exercises, sport, exercise, sports",2
+884,近,jìn,"close, near, close to",2
+885,还,hái,"and, returned, else, also, give back, still, yet",1
+886,还是,hái shi,"still, or",1
+887,这,zhè,"this, these, the, it, here",1
+888,这儿,zhè r,here,1
+889,这里,zhè lǐ,"right here, here",1
+890,进,jìn,"go in, into, through, enter, go, come in",1
+891,远,yuǎn,"far, away, far away",1
+892,迟到,chí dào,late,4
+893,迷路,mí lù,lost,0
+894,退房,tuì fáng,check out,0
+895,退款,tuì kuǎn,"refund, get a refund",0
+896,退货,tuì huò,return,0
+897,送,sòng,"delivers, deliver, give",1
+898,选择,xuǎn zé,"option, chosen, choices, choose, pick, choice, chose",4
+899,遇到,yù dào,meet,4
+900,那,nà,"and, the, there, those, that",1
+901,那儿,nà r,"over there, there",1
+902,那里,nà lǐ,there,1
+903,邻居,lín jū,"neighbors, neighborhood, neighbor",5
+904,都,dōu,"both, all",1
+905,酒,jiǔ,"alcohol, alcohols",2
+906,酒店,jiǔ diàn,"The hotel, hotel, hotels",2
+907,酸辣汤,suān là tāng,hot and sour soup,0
+908,里,lǐ,"among, inside, within, at, in",1
+909,里面,lǐ miàn,"inside, in",3
+910,重要,zhòng yào,"matter, important",1
+911,钟,zhōng,"the clock, clock",3
+912,钱,qián,money,1
+913,铅笔,qiān bǐ,"a pencil, pencils, pencil",6
+914,银行,yín háng,"banks, the bank, bank",2
+915,错,cuò,"fault, wrong, incorrectly",1
+916,锻炼,duàn liàn,"exercises, working out, work out, exercise",4
+917,长,cháng,long,2
+918,长城,Cháng chéng,"the Great Wall of China, the Great Wall",3
+919,长江,zhǎng jiāng,"yangtze, Yangtze River",0
+920,门,mén,"door, the door",1
+921,问,wèn,"ask, asked, asks",1
+922,问题,wèn tí,"question, problems, issue, problem, questions",2
+923,闷,mèn,"boring, bored",6
+924,阴,yīn,cloudy,2
+925,阿姨,ā yí,aunt,4
+926,附近,fù jìn,"near, vicinity, around, nearby",4
+927,除了,chú le,"apart from, in addition to, except, Besides, except for, apart",3
+928,随便,suí biàn,"up to you, anywhere, as you like, just",2
+929,难,nán,"hard, difficult",1
+930,难吃,nán chī,"bad, terrible, terrible tasting",0
+931,难过,nán guò,"upset, sad",2
+932,雨,yǔ,"the rain, rain",1
+933,雪,xuě,snow,2
+934,零,líng,zero,2
+935,需要,xū yào,"need, needed, needs",3
+936,非常,fēi cháng,"huge, very, quite, a lot, much, so, pretty, extremely, really",1
+937,靠,kào,"count on, on, is, lean",2
+938,面,miàn,"noodle, noodles, sides",1
+939,面包,miàn bāo,bread,1
+940,面条,miàn tiáo,noodles,0
+941,面试,miàn shì,interview,4
+942,鞋子,xié zi,"shoes, shoe",0
+943,韩国,hán guó,"South Korea, Korea, Korean",0
+944,音乐,yīn yuè,music,2
+945,项目,xiàng mù,"project, projects",4
+946,预算,yù suàn,budget,0
+947,题,tí,"question, questions",2
+948,颜色,yán sè,"color, colors",2
+949,风,fēng,wind,1
+950,风景,fēng jǐng,"scenery, scene, landscape, view",4
+951,风险,fēng xiǎn,"risk, risks",3
+952,飞机,fēi jī,"airplane, plane, flight",1
+953,食堂,shí táng,"canteen, cafeteria",4
+954,饭,fàn,"food, rice, meals, meal",1
+955,饭馆,fàn guǎn,"restaurant, restaurants",2
+956,饮料,yǐn liào,"drink, drinks",5
+957,饱,bǎo,full,2
+958,饺子,jiǎo zi,dumplings,2
+959,饿,è,hungry,1
+960,馒头,mán tou,steamed buns,6
+961,香港,xiāng gǎng,Hong Kong,0
+962,香蕉,xiāng jiāo,"bananas, banana",3
+963,马,mǎ,"horses, horse",3
+964,马上,mǎ shàng,"immediately, right now, at once",1
+965,马路,mǎ lù,"roads, road",1
+966,骑,qí,"to ride, ride, rode, ridden, riding, rides",2
+967,高,gāo,"high, tall, taller, pointy",1
+968,高中,gāo zhōng,high school,2
+969,高兴,gāo xìng,"happily, pleasure, pleased, glad, happy",1
+970,高富帅,gāo fù shuài,"Tall, rich and handsome",0
+971,鱼,yú,fish,2
+972,鸟,niǎo,"bird, birds",2
+973,鸡肉,jī ròu,chicken,0
+974,鸡蛋,jī dàn,"eggs, egg",1
+975,麻将,má jiāng,mahjong,0
+976,麻烦,má fan,"tricky, problem, annoying, please, bothered",3
+977,黄,huáng,yellow,2
+978,黄河,huáng hé,Yellow River,0
+979,黑,hēi,black,2
+980,黑板,hēi bǎn,"blackboard, the blackboard",2
+981,鼓励,gǔ lì,"encourages, encourage",5
+982,鼻子,bí zi,nose,5
+983,龙舟,lóng zhōu,dragon boat,0

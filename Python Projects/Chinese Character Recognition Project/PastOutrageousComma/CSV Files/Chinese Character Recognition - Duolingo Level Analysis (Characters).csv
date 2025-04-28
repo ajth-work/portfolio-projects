@@ -1,0 +1,843 @@
+#,Original,Import Test,Reading,Tone,Definition,Radical,Stroke count,HSK Char level,TGL,TGL #,Frequency rank,Note,System ID,Length,Radical Order,General Standard #
+1,一,一,yī,1,"one; a, an; alone",一 1.0,1,1,G1,2,2,-,2,2,1,1
+2,七,七,qī,1,seven,一 1.1,2,1,G3,498,530,-,126,2,3,7
+3,万,万,wàn,4,ten thousand; innumerable,一 1.2,3,3,G3,414,322,-,422,3,4,35
+4,三,三,sān,1,three,一 1.2,3,1,G1,108,125,-,62,3,6,22
+5,上,上,shàng,4,"top; superior, highest; go up, send up",一 1.2,3,1,G1,16,16,-,16,5,7,36
+6,下,下,xià,4,"under, underneath, below; down; inferior; bring down",一 1.2,3,1,G1,40,42,-,30,3,8,30
+7,不,不,bù,4,"no, not; un-; negative prefix",一 1.3,4,1,G1,4,4,-,4,2,9,91
+8,妻,妻,qī,1,wife,女 38.5,8,2,G5,1125,1076,-,319,2,635,1056
+9,除,除,chú,2,"eliminate, remove, except",阜 170.7,9,3,G3,471,464,-,452,3,2527,1732
+10,个,个,gè,4,"numerary adjunct, piece; single",丨 2.2,3,1,G1,12,12,-,12,2,26,45
+11,可,可,kě,3,"may, can, -able; possibly",口 30.2,5,2,G1,30,30,-,180,2,392,212
+12,久,久,jiǔ,3,"long time (ago); time passage, grow late",丿 4.2,3,3,G3,531,637,-,492,3,36,47
+13,九,九,jiǔ,3,nine,乙 5.1,2,1,G2,310,445,-,117,3,49,15
+14,也,也,yě,3,also; classical final particle of strong affirmation or identity,乙 5.2,3,2,G2,196,31,-,181,2,51,66
+15,失,失,shī,1,"lose; make mistake, neglect",大 37.2,5,4,G3,436,375,-,697,3,604,265
+16,便,便,biàn,4,"convenience, ease; expedient",人 9.7,9,2,G2,263,271,-,233,4,157,1556
+17,了,了,le,0,to finish; particle of completed action,亅 6.1,2,1,G1,5,5,-,5,2,58,17
+18,就,就,jiù,4,"just, simply; to come, go to; to approach, near",尢 43.9,12,2,G1,27,27,-,179,3,733,2728
+19,二,二,èr,4,two; twice,二 7.0,2,1,G1,130,157,-,69,2,62,3
+20,五,五,wǔ,3,five; surname,二 7.2,4,1,G2,266,279,-,94,2,67,88
+21,想,想,xiǎng,3,"think, speculate, plan, consider",心 61.9,13,1,G1,94,99,-,57,5,948,2867
+22,人,人,rén,2,man; people; mankind; someone else,人 9.0,2,1,G1,7,7,-,7,3,80,10
+23,从,从,cóng,2,"from, by, since, whence, through",人 9.2,4,2,G1,93,98,-,195,4,89,142
+24,任,任,rèn,4,"trust to, rely on, appoint; to bear, duty, office; allow",人 9.4,6,4,G3,381,186,-,635,3,104,467
+25,叔,叔,shū,1,,又 29.6,8,3,G4,935,1422,-,575,3,375,1065
+26,金,金,jīn,1,gold; metals in general; money,金 167.0,8,4,G2,259,260,-,655,3,2454,1166
+27,京,京,jīng,1,capital city,亠 8.6,8,1,G6,1394,566,-,129,4,76,1205
+28,旅,旅,lǚ,3,"trip, journey; travel; traveler",方 70.6,10,2,G4,835,950,-,305,2,1188,2046
+29,资,资,zī,1,property; wealth; capital,貝 154.6,10,4,G4,642,257,-,653,2,2289,2039
+30,旁,旁,páng,2,"side; by side, close by, near",方 70.6,10,2,G3,605,981,-,308,4,1187,2045
+31,凉,凉,liáng,2,"cool, cold; disheartened",冫 15.8,10,4,G4,958,1581,-,972,5,248,2040
+32,元,元,yuán,2,first; dollar; origin; head,儿 10.2,4,3,G2,294,370,-,431,4,201,80
+33,厕,厕,cè,4,"mingle with; toilet, lavatory",厂 27.6,8,4,G7,2268,2920,-,1058,2,358,1047
+34,流,流,liú,2,"flow, circulate, drift; class",水 85.6,10,4,G2,299,396,-,702,3,1454,2080
+35,八,八,bā,1,"eight; all around, all sides",八 12.0,2,1,G2,311,451,-,119,2,216,9
+36,末,末,mò,4,"final, last, end; insignificant",木 75.1,5,3,G4,895,1164,-,560,2,1257,193
+37,衬,衬,chèn,4,underwear; inner garments,衣 145.3,8,3,G7,2200,2502,-,612,4,2152,1292
+38,系,系,xì,4,"system; line, link, connection",糸 120.1,7,1,G4,639,216,-,83,2,1875,825
+39,尽,尽,jǐn,3,"exhaust, use up; deplete",尸 44.3,6,4,G4,688,488,-,731,3,737,566
+40,多,多,duō,1,"much, many; more than, over",夕 36.3,6,1,G1,59,61,-,36,3,596,507
+41,油,油,yóu,2,"oil, fat, grease, lard; paints",水 85.5,8,4,G3,601,948,-,868,3,1421,1248
+42,萌,萌,méng,2,"bud, sprout",艸 140.8,11,6,G8,2488,2879,-,2475,4,2093,2203
+43,几,几,jǐ,3,small table,几 16.0,2,1,G1,155,211,-,81,2,253,14
+44,欢,欢,huān,1,"happy, pleased, glad; joy; enjoy",欠 76.2,6,1,G2,346,685,-,142,4,1354,587
+45,刀,刀,dāo,1,knife; old coin; measure,刀 18.0,2,4,G4,868,1067,-,884,3,261,18
+46,月,月,yuè,4,moon; month; KangXi radical 74,月 74.0,4,1,G1,137,169,-,72,3,1247,150
+47,译,译,yì,4,translate; decode; encode,言 149.5,7,4,G6,1479,1198,-,912,2,2215,898
+48,择,择,zé,2,"select, choose, pick out",手 64.5,8,3,G5,1092,961,-,537,2,1053,992
+49,特,特,tè,4,"special, unique, distinguished",牛 93.6,10,3,G3,380,173,-,384,2,1601,1938
+50,锻,锻,duàn,4,"forge metal; temper, refine",金 167.9,14,3,G7,2206,2531,-,613,4,2489,3114
+51,粥,粥,zhōu,1,"rice gruel, congee",米 119.6,12,6,G8,2519,3021,-,2526,4,1866,2803
+52,赢,赢,yíng,2,"win; surplus, gain, profit",亠 8.15,17,4,G7,2005,1836,-,998,4,2299,3427
+53,坏,坏,huài,4,"rotten, spoilt, bad, broken down",土 32.4,7,3,G3,577,832,-,521,4,542,616
+54,次,次,cì,4,"order, sequence; next",欠 76.2,6,2,G1,145,183,-,218,2,1353,521
+55,十,十,shí,2,"ten, tenth; complete; perfect",十 24.0,2,1,G1,99,112,-,59,3,329,4
+56,千,千,qiān,1,"thousand; many, numerous; very; (Cant.) a cheater, swindler",十 24.1,3,2,G3,518,599,-,277,4,330,41
+57,江,江,jiāng,1,large river; yangzi; surname,水 85.3,6,4,G4,719,577,-,762,5,1402,538
+58,明,明,míng,2,"bright, light, brilliant; clear",日 72.4,8,1,G1,105,121,-,61,4,1207,1087
+59,湾,湾,wān,1,"bay, cove, inlet, bend of stream",水 85.9,12,6,G3,583,855,-,1712,3,1502,2764
+60,鸟,鸟,niǎo,3,bird; KangXi radical 196,鳥 196.0,5,3,G3,629,1263,-,566,4,2645,296
+61,又,又,yòu,4,"and, also, again, in addition",又 29.0,2,3,G1,109,126,-,371,3,368,21
+62,叉,叉,chā,1,"crotch; fork, prong",又 29.1,3,5,G7,2124,2231,-,1601,3,369,71
+63,生,生,shēng,1,"life, living, lifetime; birth",生 100.0,5,1,G1,33,34,-,26,5,1648,263
+64,极,极,jí,2,"extreme, utmost, furthest, final",木 75.3,7,3,G3,430,363,-,428,2,1281,687
+65,划,划,huà,4,to row or paddle boat; to scratch,刀 18.4,6,4,G6,1393,522,-,740,3,266,407
+66,当,当,dāng,1,"bear, accept, undertake; just",小 42.3,6,3,G1,69,71,-,360,4,855,418
+67,边,边,biān,1,"edge, margin, side, border",辵 162.2,5,2,G1,174,316,-,243,4,2367,337
+68,而,而,ér,2,and; and then; and yet; but,而 126.0,6,3,G3,371,36,-,349,2,1964,392
+69,责,责,zé,2,,貝 154.4,8,4,G4,702,535,-,744,2,2267,948
+70,图,图,tú,2,"diagram; chart, map, picture",囗 31.5,8,3,G3,477,476,-,455,2,531,1119
+71,咖,咖,kā,1,coffee; a phonetic,口 30.5,8,2,G8,2383,2379,-,344,2,447,1104
+72,者,者,zhě,3,that which; he who; those who,老 125.4,8,3,G3,373,103,-,368,3,1963,969
+73,铅,铅,qiān,1,lead,金 167.5,10,2,G5,1385,2641,-,347,4,2471,1934
+74,铁,铁,tiě,3,"iron; strong, solid, firm",金 167.5,10,3,G4,781,779,-,514,3,2469,1932
+75,数,数,shù,4,"number; several, count; fate",攴 66.9,13,3,G2,243,231,-,397,3,1169,2999
+76,舞,舞,wǔ,3,"dance, posture, prance; brandish",舛 136.8,14,2,G3,622,1144,-,321,2,2049,3116
+77,早,早,zǎo,3,early; soon; morning,日 72.2,6,2,G1,187,462,-,264,3,1198,419
+78,抱,抱,bào,4,"embrace, hold in arms, enfold",手 64.5,8,4,G4,883,1122,-,898,3,1026,978
+79,输,输,shū,1,"transport, carry, haul",車 159.9,13,4,G5,1082,939,-,865,3,2353,2890
+80,闷,闷,mèn,4,"gloomy, depressed, melancholy",門 169.4,7,6,G6,1686,1830,-,2023,3,2501,848
+81,财,财,cái,2,"wealth, valuables, riches",貝 154.3,7,5,G4,753,680,-,1157,3,2266,756
+82,亮,亮,liàng,4,"bright, brilliant, radiant, light",亠 8.7,9,1,G2,356,840,-,152,5,78,1621
+83,烟,烟,yān,1,"smoke, soot; opium; tobacco, cigarettes",火 86.6,10,4,G4,838,967,-,871,3,1561,2062
+84,前,前,qián,2,"in front, forward; preceding",刀 18.7,9,1,G1,88,93,-,55,4,286,1650
+85,伞,伞,sǎn,3,"umbrella, parasol, parachute",人 9.4,6,3,G6,1790,2202,-,607,3,116,493
+86,刻,刻,kè,4,"carve, engrave; quarter hour",刀 18.6,8,3,G3,527,618,-,487,2,283,1224
+87,大,大,dà,4,"big, great, vast, large, high",大 37.0,3,1,G1,17,17,-,17,2,599,32
+88,天,天,tiān,1,"sky, heaven; god, celestial",大 37.1,4,1,G1,76,78,-,47,4,600,78
+89,太,太,tài,4,"very, too, much; big; extreme",大 37.1,4,1,G1,162,240,-,90,3,601,93
+90,兴,兴,xìng,4,"thrive, prosper, flourish",八 12.4,6,1,G2,324,531,-,127,4,221,544
+91,女,女,nǚ,3,"woman, girl; feminine; rad. 38",女 38.0,3,1,G2,239,224,-,86,2,620,67
+92,怎,怎,zěn,3,what? why? how?,心 61.5,9,1,G2,295,382,-,108,3,894,1543
+93,昨,昨,zuó,2,"yesterday; in former times, past",日 72.5,9,1,G4,946,1475,-,169,3,1215,1489
+94,珍,珍,zhēn,1,"precious, valuable, rare",玉 96.5,9,5,G5,1200,1314,-,1361,4,1632,1358
+95,那,那,nà,4,"that, that one, those",邑 163.4,6,1,G1,36,38,-,29,2,2425,564
+96,甜,甜,tián,2,"sweet, sweetness",甘 99.6,11,3,G5,1349,2020,-,603,4,1647,2311
+97,医,医,yī,1,"cure, heal; doctor, medical",匸 23.5,7,1,G3,480,482,-,123,2,328,700
+98,小,小,xiǎo,3,"small, tiny, insignificant",小 42.0,3,1,G1,81,83,-,50,4,724,37
+99,少,少,shǎo,3,"few, less, inadequate",小 42.1,4,1,G2,245,233,-,89,4,725,110
+100,得,得,dé,2,"obtain, get, gain, acquire",彳 60.8,11,2,G1,37,39,-,182,2,872,2341
+101,拍,拍,pāi,1,"clap, tap, beat; beat or rhythm",手 64.5,8,5,G4,896,1167,-,1317,3,1036,970
+102,加,加,jiā,1,"add to, increase, augment",力 19.3,5,3,G2,216,166,-,383,3,301,335
+103,耳,耳,ěr,3,"ear; merely, only; handle",耳 128.0,6,3,G4,820,887,-,525,2,1969,369
+104,干,干,gàn,4,"oppose, offend; invade; dried",干 51.0,3,3,G3,426,353,-,427,3,807,23
+105,松,松,sōng,1,pine tree; fir tree,木 75.4,8,4,G5,1072,895,-,856,4,1279,1026
+106,开,开,kāi,1,"open; initiate, begin, start",廾 55.1,4,1,G1,89,94,-,56,3,839,76
+107,船,船,chuán,2,"ship, boat, vessel",舟 137.5,11,3,G3,525,614,-,485,5,2056,2345
+108,端,端,duān,1,"end, extreme; head; beginning",立 117.9,14,6,G4,830,916,-,1718,4,1831,3151
+109,检,检,jiǎn,3,check; examine,木 75.7,11,3,G5,1035,731,-,505,4,1330,2227
+110,练,练,liàn,4,"to practice, drill, exercise, train",糸 120.5,8,3,G3,608,1005,-,543,4,1900,1337
+111,累,累,lèi,4,"tired; implicate, involve; bother",糸 120.5,11,2,G5,1205,1323,-,333,3,1881,2282
+112,健,健,jiàn,4,"strong, robust, healthy; strength",人 9.9,10,3,G4,840,979,-,538,4,185,1969
+113,手,手,shǒu,3,hand,手 64.0,4,2,G1,121,143,-,211,4,987,121
+114,才,才,cái,2,"talent, ability; just, only",手 64.0,3,3,G1,161,235,-,399,3,988,29
+115,他,他,tā,1,"other, another; he, she, it",人 9.3,5,1,G1,10,10,-,10,2,92,277
+116,度,度,dù,4,"degree, system; manner; to consider",广 53.6,9,4,G2,222,184,-,634,2,829,1622
+117,炼,炼,liàn,4,"smelt, refine; distill, condense",火 86.5,9,3,G7,1985,1763,-,592,4,1555,1655
+118,点,点,diǎn,3,"dot, speck, spot; point, degree",火 86.5,9,1,G1,110,128,-,64,4,1554,1469
+119,篮,篮,lán,2,basket,竹 118.10,16,2,G5,1371,2357,-,343,3,1856,3357
+120,日,日,rì,4,sun; day; daytime,日 72.0,4,2,G1,95,101,-,196,2,1194,112
+121,场,场,chǎng,3,"open space, field, market",土 32.3,6,2,G2,254,249,-,231,5,538,367
+122,阿,阿,ā,1,,阜 170.5,7,3,G3,475,471,-,453,1,2516,913
+123,简,简,jiǎn,3,"simple, terse, succinct, a letter",竹 118.7,13,3,G4,764,716,-,501,4,1850,2954
+124,退,退,tuì,4,"step back, retreat, withdraw",辵 162.6,9,5,G4,766,723,-,1170,3,2392,1720
+125,心,心,xīn,1,"heart; mind, intelligence; soul",心 61.0,4,3,G1,86,90,-,365,3,879,174
+126,完,完,wán,2,"complete, finish, settle; whole",宀 40.4,7,2,G1,171,301,-,239,3,680,877
+127,写,写,xiě,3,"write; draw, sketch; compose",冖 14.3,5,1,G1,186,448,-,118,3,233,316
+128,祝,祝,zhù,4,pray for happiness or blessings,示 113.5,9,4,G5,1288,1651,-,987,3,1778,1712
+129,家,家,jiā,1,"house, home, residence; family",宀 40.7,10,1,G1,54,56,-,35,3,700,2099
+130,珠,珠,zhū,1,"precious stone, gem, jewel, pearl",玉 96.6,10,6,G4,917,1286,-,1804,3,1633,1773
+131,帽,帽,mào,4,"hat, cap; cap-like tops",巾 50.9,12,3,G5,1309,1750,-,591,3,803,2649
+132,语,语,yǔ,3,"language, words; saying, expression",言 149.7,9,1,G2,318,493,-,125,2,2227,1707
+133,怕,怕,pà,4,"to fear, be afraid of; apprehensive",心 61.5,8,3,G2,337,631,-,490,2,896,1269
+134,都,都,dōu,1,"metropolis, capital; all, the whole; elegant, refined",邑 163.9,10,1,G1,66,68,-,40,3,2433,1801
+135,识,识,shí,2,"recognize, understand, know",言 149.5,7,1,G3,422,340,-,103,3,2210,892
+136,脏,脏,zàng,4,"internal organs, viscera; dirty",肉 130.6,10,4,G5,1286,1634,-,983,4,2015,1998
+137,比,比,bǐ,3,"to compare, liken; comparison; than",比 81.0,4,2,G1,150,199,-,222,2,1384,105
+138,毛,毛,máo,2,"hair, fur, feathers; coarse",毛 82.0,4,4,G3,529,623,-,777,3,1386,123
+139,水,水,shuǐ,3,"water, liquid, lotion, juice",水 85.0,4,1,G1,151,202,-,79,4,1395,117
+140,晚,晚,wǎn,3,"night, evening; late",日 72.7,11,2,G2,340,641,-,283,3,1224,2270
+141,妹,妹,mèi,4,younger sister,女 38.5,8,2,G2,369,1185,-,323,3,634,1324
+142,箱,箱,xiāng,1,"case, box, chest, trunk",竹 118.9,15,3,G4,942,1453,-,578,5,1854,3265
+143,王,王,wáng,2,"king, ruler; royal; surname",玉 96.0,4,5,G2,274,299,-,1081,4,1627,75
+144,情,情,qíng,2,"feeling, sentiment, emotion",心 61.8,11,2,G1,104,120,-,203,4,932,2438
+145,向,向,xiàng,4,"toward, direction, trend",口 30.3,6,3,G2,213,146,-,376,5,411,480
+146,啊,啊,a,0,exclamatory particle,口 30.8,10,3,G3,557,753,-,509,1,485,1915
+147,然,然,rán,2,"yes, certainly; pledge, promise",火 86.8,12,2,G1,53,55,-,187,3,1570,2723
+148,乓,乓,pāng,1,used with ping for ping pong,丿 4.5,6,4,G8,2576,3502,-,1063,4,45,457
+149,快,快,kuài,4,"rapid, quick, speedy, fast; soon",心 61.4,7,2,G1,181,366,-,251,4,889,876
+150,瘦,瘦,shòu,4,"thin, emaciated, lean; meager",疒 104.10,14,3,G6,1689,1841,-,595,4,1687,3147
+151,居,居,jū,1,"live, dwell, reside, sit",尸 44.5,8,3,G3,542,678,-,496,2,742,1308
+152,信,信,xìn,4,"trust, believe; letter",人 9.7,9,3,G2,219,176,-,385,3,164,1570
+153,望,望,wàng,4,"to look at, look forward; to hope, expect",月 74.7,11,2,G2,282,326,-,244,4,1252,2394
+154,男,男,nán,2,"male, man; son; baron; surname",田 102.2,7,2,G3,519,602,-,278,3,1657,733
+155,足,足,zú,2,"foot; attain, satisfy, enough",足 157.0,7,2,G3,496,527,-,273,2,2311,731
+156,苹,苹,píng,2,artemisia; duckweed; apple,艸 140.5,8,1,G7,2194,2478,-,174,4,2075,1004
+157,法,法,fǎ,3,"law, rule, regulation, statute; France, French",水 85.5,8,3,G1,63,65,-,358,2,1430,1241
+158,宫,宫,gōng,1,palace,宀 40.6,9,6,G5,1098,982,-,1735,4,695,1698
+159,最,最,zuì,4,"most, extremely, exceedingly",曰 73.8,12,2,G1,118,139,-,210,3,1246,2614
+160,货,货,huò,4,"goods, commodities, products",貝 154.4,8,4,G4,793,818,-,832,3,2271,1151
+161,见,见,jiàn,4,"see, observe, behold; perceive",見 147.0,4,1,G1,127,153,-,67,4,2174,118
+162,害,害,hài,4,"injure, harm; destroy, kill",宀 40.7,10,3,G2,332,579,-,479,3,697,2097
+163,导,导,dǎo,3,"direct, guide, lead, conduct",寸 41.3,6,4,G4,656,343,-,685,3,718,567
+164,药,药,yào,4,leaf of Dahurian angelica plant; medicine,艸 140.6,9,2,G3,540,662,-,286,3,2087,1423
+165,亲,亲,qīn,1,"relatives, parents; intimate the hazel nut or filbert tree a thorny tree",立 117.4,9,4,G2,291,362,-,693,3,79,1631
+166,车,车,chē,1,"cart, vehicle; carry in cart",車 159.0,4,1,G1,180,361,-,106,3,2338,100
+167,条,条,tiáo,2,"clause, condition; string, stripe",木 75.3,7,2,G2,234,214,-,226,4,1275,816
+168,料,料,liào,4,"consider, conjecture; materials, ingredients",斗 68.6,10,3,G3,506,557,-,471,4,1176,2054
+169,结,结,jié,2,"knot, tie; join, connect",糸 120.6,9,3,G2,247,236,-,400,3,1911,1754
+170,职,职,zhí,2,"duty, profession; office, post",耳 128.5,11,4,G5,1007,616,-,774,3,1975,2192
+171,饼,饼,bǐng,3,"rice-cakes, biscuits",食 184.6,9,4,G5,1372,2359,-,1038,4,2611,1614
+172,将,将,jiāng,1,"will, going to, future; general",爿 90.6,9,4,G2,209,132,-,627,5,722,1617
+173,查,查,chá,2,"investigate, examine, seek into",木 75.5,9,3,G4,678,459,-,449,3,1297,1431
+174,哥,哥,gē,1,elder brother,口 30.7,10,2,G2,354,804,-,294,2,465,1852
+175,长,长,zhǎng,3,long; length; excel in; leader,長 168.0,4,2,G1,98,109,-,199,5,2493,127
+176,门,门,mén,2,"gate, door, entrance, opening",門 169.0,3,2,G2,223,185,-,219,3,2494,55
+177,空,空,kōng,1,"empty, hollow, bare, deserted",穴 116.3,8,3,G2,264,272,-,408,4,1814,1282
+178,雪,雪,xuě,3,"snow; wipe away shame, avenge",雨 173.3,11,2,G4,850,1003,-,311,3,2551,2249
+179,冒,冒,mào,4,"risk, brave, dare",冂 13.7,9,3,G5,1167,1222,-,564,3,232,1486
+180,渴,渴,kě,3,"thirsty, parched; yearn, pine",水 85.9,12,3,G6,1730,1972,-,601,2,1498,2758
+181,以,以,yǐ,3,"by means of; thereby, therefore; consider as; in order to",人 9.3,4,2,G1,23,23,-,177,2,98,182
+182,被,被,bèi,4,,衣 145.5,10,3,G1,128,154,-,380,3,2159,2118
+183,颜,颜,yán,2,"face, facial appearance",頁 181.9,15,2,G4,952,1545,-,339,3,2593,3285
+184,马,马,mǎ,3,horse; surname; KangXi radical 187,馬 187.0,3,3,G2,265,276,-,410,2,2620,72
+185,靠,靠,kào,4,"lean on, trust, depend on; near",非 175.7,15,5,G4,789,808,-,1197,3,2567,3259
+186,色,色,sè,4,"color, tint, hue, shade; form, body; beauty, desire for beauty",色 139.0,6,2,G1,172,304,-,240,2,2061,509
+187,低,低,dī,1,"low; to lower, hang, bend, bow",人 9.5,7,4,G4,726,592,-,767,2,131,781
+188,喂,喂,wèi,4,interjection to call attention,口 30.9,12,1,G7,2046,1988,-,173,3,493,2641
+189,投,投,tóu,4,"throw, cast, fling, pitch; jump",手 64.4,7,5,G4,695,516,-,1116,3,1015,643
+190,丈,丈,zhàng,4,"unit of length equal 3.3 meters; gentleman, man, husband",一 1.2,3,2,G5,1173,1242,-,328,5,5,33
+191,夫,夫,fū,1,"man, male adult, husband; those",大 37.1,4,2,G3,438,377,-,254,2,602,79
+192,午,午,wǔ,3,noon; 7th terrestrial branch,十 24.2,4,1,G2,366,1004,-,160,2,332,119
+193,取,取,qǔ,3,"take, receive, obtain; select",又 29.6,8,4,G3,415,323,-,677,2,376,997
+194,高,高,gāo,1,"high, tall; lofty, elevated",高 189.0,10,1,G1,114,134,-,65,3,2635,2021
+195,专,专,zhuān,1,"monopolize, take sole possession",一 1.3,4,4,G4,687,485,-,729,5,13,83
+196,地,地,de,0,"earth; soil, ground; region",土 32.3,6,3,G1,21,21,-,348,2,537,366
+197,市,市,shì,4,"market, fair; city, town; trade",巾 50.2,5,3,G3,393,254,-,405,3,788,301
+198,母,母,mǔ,3,mother; female elders; female,毋 80.1,5,4,G2,329,565,-,758,2,1381,345
+199,应,应,yīng,1,"should, ought to, must",广 53.4,7,3,G2,212,144,-,375,4,822,836
+200,护,护,hù,4,"protect, guard, defend, shelter",手 64.4,7,3,G3,497,529,-,466,2,1022,649
+201,穿,穿,chuān,1,"penetrate, pierce, drill; wear",穴 116.4,9,2,G3,564,785,-,293,5,1815,1701
+202,子,子,zi,0,"offspring, child; fruit, seed of; 1st terrestrial branch",子 39.0,3,1,G1,35,37,-,28,2,663,64
+203,中,中,zhōng,1,"central; center, middle; in the midst of; hit (target); attain",丨 2.3,4,1,G1,14,14,-,14,5,27,113
+204,睛,睛,jīng,1,eyeball; pupil of eye,目 109.8,13,2,G3,599,934,-,304,4,1731,2895
+205,打,打,dǎ,3,"strike, hit, beat; fight; attack",手 64.2,5,1,G1,158,223,-,85,2,992,196
+206,桶,桶,tǒng,3,"pail, bucket, tub; cask, keg",木 75.7,11,4,G6,1823,2411,-,1040,4,1322,2230
+207,关,关,guān,1,frontier pass; close; relation,八 12.4,6,1,G2,207,127,-,63,4,220,532
+208,习,习,xí,2,practice; flapping wings,冫 15.1,3,1,G2,345,676,-,141,2,52,70
+209,保,保,bǎo,3,"protect, safeguard, defend, care",人 9.7,9,4,G3,396,266,-,660,3,163,1562
+211,道,道,dào,4,"path, road, street; method, way",辵 162.9,12,2,G1,50,52,-,185,3,2416,2745
+212,什,什,shén,2,"file of ten soldiers; mixed, miscellaneous",人 9.2,4,1,G1,129,156,-,68,4,82,129
+213,么,么,me,0,interrogative particle; repetition of a tune small; tender,丿 4.2,3,1,G1,61,63,-,37,2,37,48
+214,分,分,fēn,1,divide; small unit of time etc.,刀 18.2,4,1,G1,77,79,-,48,3,262,146
+215,公,公,gōng,1,"fair, equitable; public; duke",八 12.2,4,2,G1,101,115,-,201,4,217,148
+216,或,或,huò,4,"or, either, else; perhaps, maybe",戈 62.4,8,3,G1,132,160,-,381,3,977,1035
+217,介,介,jiè,4,"forerunner, herald, harbinger; to lie between; sea shell; to wear armor",人 9.2,4,2,G5,1057,831,-,298,3,87,140
+218,今,今,jīn,1,"now, today, modern era",人 9.2,4,1,G2,285,336,-,101,3,86,144
+219,班,班,bān,1,"class, group, grade; squad; job",玉 96.6,10,2,G2,361,884,-,302,3,1634,1774
+220,伤,伤,shāng,1,"wound, injury; fall ill from",人 9.4,6,4,G3,539,660,-,787,5,119,468
+221,年,年,nián,2,,干 51.3,6,1,G1,43,45,-,31,4,809,444
+222,史,史,shǐ,3,"history, chronicle, annals",口 30.2,5,3,G4,676,456,-,447,3,394,248
+223,兄,兄,xiōng,1,elder brother,儿 10.3,5,5,G4,876,1089,-,1285,5,202,250
+224,知,知,zhī,1,"know, perceive, comprehend",矢 111.3,8,2,G1,106,123,-,204,3,1746,1122
+225,非,非,fēi,1,"not, negative, non-; oppose",非 175.0,8,2,G2,268,283,-,236,3,2566,1064
+226,命,命,mìng,4,"life; destiny, fate, luck; an order, instruction",口 30.5,8,4,G3,394,258,-,654,4,442,1168
+227,收,收,shōu,1,"gather together, collect; harvest",攴 66.2,6,4,G2,290,351,-,688,4,1154,573
+228,国,国,guó,2,"nation, country, nation-state",囗 31.5,8,1,G1,20,20,-,19,3,530,1081
+229,准,准,zhǔn,3,"approve, allow, permit; in accord",冫 15.8,10,2,G3,440,379,-,255,4,247,2024
+230,脑,脑,nǎo,3,brain,肉 130.6,10,1,G4,738,646,-,137,3,2016,2001
+231,燥,燥,zào,4,"dry, parched, arid; quick-tempered",火 86.13,17,5,G7,2219,2613,-,1652,3,1583,3430
+232,病,病,bìng,4,"illness, sickness, disease",疒 104.5,10,2,G2,303,427,-,261,4,1679,2027
+233,站,站,zhàn,4,"stand up; a stand, station",立 117.5,10,2,G3,502,544,-,275,4,1825,2041
+234,先,先,xiān,1,"first, former, previous",儿 10.4,6,1,G2,224,188,-,76,4,205,446
+235,死,死,sǐ,3,die; dead; death,歹 78.2,6,4,G2,279,317,-,674,2,1371,400
+236,卡,卡,kǎ,3,"card, punch card; calorie",卜 25.3,5,3,G5,1029,717,-,502,2,343,226
+237,儿,儿,ér,2,"son, child; KangXi radical 10",儿 10.0,2,1,G1,147,192,-,77,2,199,12
+238,定,定,dìng,4,"decide, settle, fix",宀 40.5,8,3,G1,75,77,-,361,4,685,1276
+239,宜,宜,yí,2,"suitable, right, fitting, proper",宀 40.5,8,2,G5,1188,1290,-,332,2,686,1278
+240,过,过,guò,4,"pass, pass through, go across",辵 162.3,6,2,G1,44,46,-,184,3,2373,379
+241,奇,奇,qí,2,"strange, unusual, uncanny, occult",大 37.5,8,3,G3,510,563,-,475,2,609,1050
+242,同,同,tóng,2,"same, similar; together with",口 30.3,6,1,G1,67,69,-,41,4,407,427
+243,浪,浪,làng,4,"wave; wasteful, reckless",水 85.7,10,4,G4,900,1186,-,910,4,1463,2084
+244,方,方,fāng,1,"a square, rectangle; a region; local",方 70.0,4,3,G1,58,60,-,357,4,1185,163
+245,你,你,nǐ,3,"you, second person pronoun",人 9.5,7,1,G1,31,32,-,24,2,138,782
+246,火,火,huǒ,3,"fire, flame; burn; anger, rage",火 86.0,4,2,G2,304,433,-,263,3,1538,164
+247,羽,羽,yǔ,3,"feather, plume; wings; rad. 124",羽 124.0,6,4,G5,1323,1865,-,1002,2,1954,585
+248,为,为,wèi,4,"do, handle, govern, act; be",丶 3.3,4,2,G1,18,18,-,175,3,32,165
+249,桌,桌,zhuō,1,"table, desk, stand",木 75.6,10,1,G4,902,1193,-,163,4,1316,1881
+250,订,订,dìng,4,draw up agreement; arrange,言 149.2,4,5,G5,1153,1176,-,1322,4,2190,169
+251,斤,斤,jīn,1,"a catty (approximately 500 g); an axe; keen, shrewd; KangXi radical number 69",斤 69.0,4,3,G5,1324,1866,-,596,3,1179,137
+252,衫,衫,shān,1,shirt; robe; gown; jacket,衣 145.3,8,3,G7,2103,2153,-,606,4,2151,1293
+253,于,于,yú,2,"in, on, at; go to; surname",二 7.1,3,3,G1,38,40,-,350,2,63,24
+254,视,视,shì,4,"look at, inspect, observe, see",見 147.4,8,1,G2,307,438,-,116,3,2178,1294
+255,北,北,běi,3,north; northern; northward,匕 21.3,5,1,G3,412,315,-,98,3,324,227
+256,话,话,huà,4,"speech, talk, language; dialect",言 149.6,8,1,G1,138,170,-,73,3,2219,1296
+257,询,询,xún,2,"inquire into, ask about; consult",言 149.6,8,5,G8,2305,1617,-,1465,3,2221,1299
+258,球,球,qiú,2,"ball, sphere, globe; round",玉 96.7,11,2,G2,336,628,-,281,3,1635,2155
+259,绍,绍,shào,4,"continue, carry on; join",糸 120.5,8,2,G5,1171,1234,-,327,4,1906,1348
+260,紫,紫,zǐ,3,"purple, violet; amethyst; surname",糸 120.5,12,5,G6,1619,1646,-,1471,2,1880,2604
+261,伦,伦,lún,2,normal human relationships,人 9.4,6,6,G5,1095,970,-,1731,3,120,470
+262,晴,晴,qíng,2,"clear weather, fine weather",日 72.8,12,2,G5,1339,1968,-,341,4,1230,2611
+263,言,言,yán,2,"words, speech; speak, say",言 149.0,7,4,G3,428,355,-,689,3,2184,826
+264,注,注,zhù,4,"concentrate, focus, direct",水 85.5,8,3,G3,484,492,-,460,3,1436,1252
+265,怪,怪,guài,4,"strange, unusual, peculiar",心 61.5,8,3,G3,561,775,-,512,4,904,1271
+266,德,德,dé,2,"ethics, morality, virtue",彳 60.12,15,5,G4,641,256,-,1074,2,878,3272
+267,热,热,rè,4,hot; heat; fever; restless; zeal,火 86.6,10,1,G3,521,606,-,134,2,1566,1809
+268,唱,唱,chàng,4,"sing, chant, call; ditty, song",口 30.8,11,2,G3,628,1252,-,330,5,481,2284
+269,自,自,zì,4,"self, private, personal; from",自 132.0,6,3,G1,41,43,-,351,2,2039,477
+270,买,买,mǎi,3,"buy, purchase; bribe, persuade",大 37.3,6,1,G2,352,758,-,148,3,55,588
+271,务,务,wù,4,"affairs, business; must, should",夂 34.2,5,2,G4,640,245,-,230,2,302,297
+272,红,红,hóng,2,"red, vermillion; blush, flush",糸 120.3,6,2,G2,320,502,-,268,4,1884,589
+273,风,风,fēng,1,"wind; air; manners, atmosphere",風 182.0,4,3,G1,178,348,-,425,4,2597,154
+274,醒,醒,xǐng,3,wake up; sober up; startle,酉 164.9,16,4,G4,872,1075,-,886,4,2447,3336
+275,六,六,liù,4,number six,八 12.2,4,1,G2,316,478,-,122,3,218,160
+276,文,文,wén,2,"literature, culture, writing",文 67.0,4,3,G1,123,148,-,378,3,1173,161
+277,其,其,qí,2,"his, her, its, their; that",八 12.6,8,3,G2,197,85,-,362,2,223,996
+278,袋,袋,dài,4,"pocket, bag, sack, pouch",衣 145.5,11,4,G4,921,1310,-,935,3,2155,2325
+279,租,租,zū,1,"rent, lease; rental; tax",禾 115.5,10,1,G7,1923,1397,-,168,2,1795,1944
+280,牙,牙,yá,2,"tooth, molars, teeth; serrated",牙 92.0,4,3,G4,847,997,-,541,2,1594,102
+281,电,电,diàn,4,electricity; electric; lightning,曰 73.1,5,1,G1,160,230,-,88,4,1656,242
+283,冬,冬,dōng,1,"winter, 11th lunar month",冫 15.3,5,3,G4,928,1384,-,573,4,238,295
+284,找,找,zhǎo,3,"search, seek, look for; find",手 64.4,7,2,G2,315,466,-,265,4,1007,621
+286,址,址,zhǐ,3,"site, location, land for house",土 32.4,7,4,G7,2010,1848,-,999,3,540,623
+287,里,里,lǐ,3,unit of distance; village; lane,里 166.0,7,1,G1,48,50,-,34,2,2450,721
+288,愿,愿,yuàn,4,"sincere, honest, virtuous",心 61.10,14,3,G3,517,598,-,482,4,959,3094
+289,馆,馆,guǎn,3,public building,食 184.8,11,2,G5,1107,1011,-,313,4,2614,2373
+290,力,力,lì,4,"power, capability, influence",力 19.0,2,3,G1,97,106,-,369,2,297,19
+291,勺,勺,sháo,2,"spoon, ladle; unit of volume",勹 20.1,3,4,G4,979,3275,*,1060,4,317,49
+292,决,决,jué,2,"decide, determine, judge",冫 15.4,6,3,G3,400,273,-,409,3,241,523
+293,考,考,kǎo,3,"examine, test; investigate",老 125.0,6,2,G2,319,495,-,267,3,1962,358
+294,橙,橙,chéng,2,orange,木 75.12,16,6,G8,2582,3571,-,2631,5,1350,3331
+295,老,老,lǎo,3,"old, aged; experienced",老 125.0,6,1,G1,142,179,-,75,3,1961,360
+296,功,功,gōng,1,"achievement, merit, good result",力 19.3,5,4,G2,312,452,-,722,4,300,202
+297,圾,圾,jī,1,"garbage, rubbish; shaking; danger",土 32.4,6,4,G5,1384,2634,-,1051,2,539,362
+298,块,块,kuài,4,"piece, lump; dollar",土 32.4,7,1,G3,568,793,-,150,4,545,652
+299,险,险,xiǎn,3,"narrow pass, strategic point",阜 170.7,9,4,G4,749,672,-,791,4,2528,1733
+300,吃,吃,chī,1,"eat; drink; suffer, endure, bear",口 30.3,6,1,G1,188,475,-,121,3,402,429
+301,院,院,yuàn,4,"courtyard, yard, court; school",阜 170.7,9,1,G3,421,338,-,102,4,2526,1734
+302,升,升,shēng,1,"arise, go up; hoist; advance",十 24.2,4,5,G3,579,837,-,1204,5,331,125
+303,课,课,kè,4,lesson; course; classwork,言 149.8,10,2,G2,370,1208,-,325,2,2237,2120
+304,床,床,chuáng,2,"bed, couch; framework, chassis",广 53.4,7,2,G4,869,1068,-,317,6,819,831
+305,阴,阴,yīn,1,,阜 170.4,6,2,G4,842,987,-,309,3,2512,575
+306,去,去,qù,4,"go away, leave, depart",厶 28.3,5,1,G1,62,64,-,38,2,365,204
+307,声,声,shēng,1,"sound, voice, noise; tone; music",士 33.4,7,3,G1,149,195,-,389,5,587,654
+308,全,全,quán,2,"maintain, keep whole or intact",入 11.4,6,4,G1,107,124,-,626,4,215,485
+309,历,历,lì,4,history; calendar,厂 27.2,4,3,G5,991,480,-,456,2,354,95
+310,师,师,shī,1,"teacher, master, specialist",巾 50.3,6,1,G2,283,333,-,100,3,792,413
+311,间,间,jiān,1,"midpoint, space; place, locality",門 169.4,7,2,G1,115,135,-,208,4,2500,847
+312,寒,寒,hán,2,"cold, wintry, chilly",宀 40.9,12,4,G4,920,1297,-,933,3,709,2780
+313,漂,漂,piào,4,"float, drift; tossed about",水 85.11,14,1,G4,955,1568,-,170,4,1522,3163
+314,包,包,bāo,1,"wrap, pack, bundle; package",勹 20.3,5,3,G3,468,454,-,445,3,321,298
+315,画,画,huà,4,"a painting, picture, drawing; to draw",田 102.3,8,3,G2,360,883,-,524,3,1658,1036
+316,走,走,zǒu,3,"walk, go on foot; run; leave",走 156.0,7,2,G1,154,207,-,225,3,2301,625
+317,科,科,kē,1,"section, department, science",禾 115.4,9,4,G3,401,277,-,665,2,1792,1551
+318,李,李,lǐ,3,plum; judge; surname,木 75.3,7,3,G4,682,472,-,454,2,1268,688
+319,求,求,qiú,2,"seek; demand, request; beseech",水 85.2,7,3,G3,411,312,-,418,3,1398,690
+320,随,随,suí,2,"follow, listen to, submit to",阜 170.10,11,4,G3,487,498,-,735,3,2534,2476
+321,更,更,gèng,4,"more, still further, much more",曰 73.3,7,3,G2,238,221,-,394,4,1243,693
+322,因,因,yīn,1,"cause, reason; by; because (of)",囗 31.3,6,2,G1,91,96,-,194,3,524,430
+323,束,束,shù,4,"bind, control, restrain; bale",木 75.3,7,3,G5,1104,998,-,542,3,1273,694
+324,笑,笑,xiào,4,"smile, laugh, giggle; snicker",竹 118.4,10,2,G2,288,346,-,248,4,1833,1952
+325,蓝,蓝,lán,2,blue; indigo plant; surname,艸 140.10,13,3,G4,901,1190,-,561,3,2105,2852
+326,楚,楚,chǔ,3,name of feudal state; clear,木 75.9,13,3,G4,809,859,-,522,3,1343,2864
+327,暑,暑,shǔ,3,hot,日 72.8,12,4,G5,1386,2743,-,1055,3,1236,2613
+328,趣,趣,qù,4,,走 156.8,15,3,G3,616,1065,-,551,2,2310,3194
+329,果,果,guǒ,3,fruit; result,木 75.4,8,1,G1,135,165,-,70,3,1288,1079
+330,懂,懂,dǒng,3,"understand, comprehend",心 61.13,15,2,G4,907,1211,-,326,4,971,3300
+331,化,化,huà,4,"change, convert, reform; -ize",匕 21.2,4,3,G2,220,178,-,386,3,323,132
+332,爷,爷,yé,2,"father, grandfather",父 88.2,6,3,G3,609,1007,-,544,2,1588,492
+333,记,记,jì,4,"record; keep in mind, remember",言 149.3,5,3,G2,275,306,-,416,2,2198,323
+334,叫,叫,jiào,4,"cry, shout; hail, greet, call",口 30.2,5,1,G1,182,387,-,110,4,388,253
+335,司,司,sī,1,"take charge of, control, manage; officer",口 30.2,5,2,G4,647,278,-,234,2,398,325
+336,出,出,chū,1,"go out, send out; stand; produce",凵 17.3,5,1,G1,28,28,-,22,3,259,330
+337,奶,奶,nǎi,3,,女 38.2,5,2,G3,631,1278,-,331,3,622,332
+338,来,来,lái,2,"come, coming; return, returning",木 75.3,7,1,G1,15,15,-,15,3,1276,707
+339,发,发,fā,1,"issue, dispatch, send out; hair",又 29.3,5,3,G1,45,47,-,352,2,374,339
+340,把,把,bǎ,3,"hold, take; guard; regard as",手 64.4,7,3,G3,375,110,*,370,2,1011,655
+341,成,成,chéng,2,"completed, finished, fixed",戈 62.3,6,3,G1,57,59,-,356,5,974,401
+342,游,游,yóu,2,"to swim; float, drift; wander, roam",水 85.9,12,2,G2,348,695,-,287,3,1499,2766
+343,观,观,guān,1,"see, observe, view; appearance",見 147.2,6,4,G3,419,334,-,683,4,2175,586
+344,位,位,wèi,4,"throne; position, post; rank, status; seat",人 9.5,7,3,G1,144,182,-,388,3,130,784
+345,现,现,xiàn,4,"appear, manifest, become visible",玉 96.4,8,1,G1,68,70,-,42,4,1630,949
+346,馒,馒,mán,2,steamed bread; steamed dumplings,食 184.11,14,5,G8,2584,3628,-,1684,3,2617,3138
+347,狗,狗,gǒu,3,"dog, canis familiaris",犬 94.5,8,1,G3,632,1281,-,166,3,1609,1198
+348,疼,疼,téng,2,"aches, pains; be fond of; love",疒 104.5,10,3,G5,1301,1710,-,589,4,1677,2031
+349,备,备,bèi,4,"prepare, ready, perfect",夂 34.5,8,2,G3,447,397,-,258,3,591,1200
+350,纸,纸,zhǐ,3,paper,糸 120.4,7,2,G2,367,1020,-,315,3,1895,938
+351,纽,纽,niǔ,3,"knot; button; handle, knob; tie",糸 120.4,7,6,G7,1986,1767,-,1983,3,1898,942
+352,港,港,gǎng,3,"port, harbor; small stream; bay",水 85.9,12,6,G5,1079,927,-,1722,4,1497,2749
+353,玩,玩,wán,2,"play with, joke, enjoy",玉 96.4,8,2,G2,368,1072,-,318,3,1628,944
+354,环,环,huán,2,jade ring or bracelet; ring,玉 96.4,8,3,G3,544,681,-,497,4,1629,945
+355,店,店,diàn,4,"shop, store; inn, hotel",广 53.5,8,1,G4,859,1041,-,161,4,824,1208
+356,持,持,chí,2,"sustain, support; hold, grasp",手 64.6,9,4,G3,429,357,-,691,3,1060,1367
+357,物,物,wù,4,"thing, substance, creature",牛 93.4,8,3,G1,120,142,-,374,2,1598,1127
+358,刮,刮,guā,1,"shave, pare off, scrape",刀 18.6,8,3,G7,2156,2350,-,609,3,276,1129
+359,载,载,zài,4,"load; carry; transport, convey",戈 62.6,10,5,G5,1097,977,-,1250,3,2345,1787
+360,和,和,hé,2,"harmony, peace; peaceful, calm",口 30.5,8,1,G1,19,19,-,18,2,445,1131
+361,借,借,jiè,4,borrow; lend; make pretext of,人 9.8,10,3,G5,1099,984,-,539,3,175,1955
+362,您,您,nín,2,,心 61.7,11,2,G4,767,726,-,289,3,928,2331
+363,影,影,yǐng,3,"shadow; image, reflection; photograph",彡 59.12,15,1,G3,446,390,-,111,4,860,3240
+364,紧,紧,jǐn,3,"tense, tight, taut; firm, secure",糸 120.4,10,4,G3,508,560,-,755,3,1879,1884
+365,踢,踢,tī,1,kick,足 157.8,15,2,G6,1829,2444,-,345,2,2325,3241
+366,白,白,bái,2,"white; pure, unblemished; bright",白 106.0,5,2,G1,168,286,-,237,3,1694,275
+367,楼,楼,lóu,2,building of two or more stories,木 75.9,13,3,G4,818,876,-,523,3,1344,2870
+368,满,满,mǎn,3,"fill; full, satisfied",水 85.10,13,3,G2,306,436,-,440,3,1516,3005
+369,夏,夏,xià,4,"summer; great, grand, big",夊 35.7,10,3,G4,886,1126,-,558,3,593,1862
+370,嘴,嘴,zuǐ,3,"mouth, lips",口 30.12,16,3,G4,851,1010,-,545,3,515,3342
+371,复,复,fù,4,return; repeat; repeatedly,夊 35.6,9,3,G4,668,426,-,439,2,592,1553
+372,且,且,qiě,3,"moreover, also (post-subject); about to, will soon (pre-verb)",一 1.4,5,3,G2,273,296,-,414,3,14,237
+373,垃,垃,lā,1,"garbage, refuse, waste",土 32.5,8,4,G5,1383,2628,-,1049,2,554,980
+374,拉,拉,lā,1,"pull, drag; seize, hold; lengthen",手 64.5,8,4,G3,416,324,-,678,2,1034,981
+375,抽,抽,chōu,1,"draw out, pull out; sprout",手 64.5,8,4,G5,1154,1178,-,909,4,1030,966
+376,睡,睡,shuì,4,"sleep, doze",目 109.8,13,1,G2,364,964,-,158,4,1732,2900
+377,内,内,nèi,4,inside,入 11.2,4,4,G2,218,175,-,633,3,229,116
+378,暖,暖,nuǎn,3,"warm, genial",日 72.9,13,4,G5,1308,1745,-,993,4,1237,2906
+379,照,照,zhào,4,"shine, illumine, reflect",火 86.9,13,3,G2,309,443,-,443,4,1574,2911
+380,脸,脸,liǎn,3,face; cheek; reputation,肉 130.7,11,3,G3,526,615,-,486,4,2020,2359
+381,土,土,tǔ,3,"soil, earth; items made of earth",土 32.0,3,5,G3,494,515,-,1115,2,534,27
+382,告,告,gào,4,"tell, announce, inform; accuse",口 30.4,7,2,G2,277,310,-,242,3,433,760
+383,境,境,jìng,4,"boundary, frontier; area, region",土 32.11,14,3,G4,721,582,-,481,4,576,3061
+384,我,我,wǒ,3,"our, us, i, me, my, we",戈 62.3,7,1,G1,9,9,-,9,2,975,761
+385,咨,咨,zī,1,"inquire, consult, discuss; plan",口 30.6,9,5,G9,2603,2408,-,1629,2,449,1629
+386,利,利,lì,4,"gains, advantage, profit, merit",刀 18.5,7,4,G2,214,155,-,631,2,274,763
+387,世,世,shì,4,generation; world; era,一 1.4,5,3,G2,221,181,-,387,3,15,206
+388,每,每,měi,3,"every, each",毋 80.3,7,2,G1,179,359,-,250,3,1382,767
+389,体,体,tǐ,3,"body; group, class, body, unit; inferior",人 9.5,7,2,G1,124,149,-,212,2,133,770
+390,联,联,lián,2,"connect, join; associate, ally",耳 128.6,12,4,G5,984,356,-,690,4,1976,2544
+391,吧,吧,ba,0,emphatic final particle,口 30.4,7,2,G3,474,470,-,266,2,419,747
+392,米,米,mǐ,3,hulled or husked uncooked rice,米 119.0,6,1,G4,717,575,-,130,2,1860,533
+393,总,总,zǒng,3,"collect; overall, altogether",八 12.7,9,3,G2,242,228,-,396,4,906,1654
+394,朵,朵,duǒ,3,cluster of flowers; earlobe,木 75.2,6,3,G4,956,1571,-,582,3,1261,497
+395,育,育,yù,4,"produce, give birth to; educate",肉 130.4,8,3,G3,524,609,-,484,2,1994,1225
+396,卷,卷,juǎn,3,scroll; curl; make a comeback,卩 26.6,8,5,G5,1110,1016,-,1260,4,350,1231
+397,单,单,dān,1,"single, individual, only; lone",八 12.6,8,3,G3,445,389,-,432,3,338,1232
+398,食,食,shí,2,eat; meal; food; KangXi radical number 184,食 184.0,9,5,G2,344,671,-,1151,3,2600,1589
+399,气,气,qì,4,"steam, vapor; KangXi radical 84",气 84.0,4,1,G1,156,217,-,84,2,1392,122
+400,轻,轻,qīng,1,"light; easy, simple; gentle",車 159.5,9,3,G3,469,460,-,450,4,2344,1463
+401,肉,肉,ròu,4,flesh; meat; KangXi radical 130,肉 130.0,6,2,G3,610,1009,-,312,3,1982,443
+402,宅,宅,zhái,2,"residence, dwelling, home; grave",宀 40.3,6,6,G7,2013,1858,-,2039,4,676,547
+403,豆,豆,dòu,4,"beans, peas; bean-shaped",豆 151.0,7,5,G4,970,1793,-,1513,3,2258,696
+404,富,富,fù,4,"abundant, ample; rich, wealthy",宀 40.9,12,4,G4,769,733,-,807,2,708,2781
+405,演,演,yǎn,3,"perform, put on; exercise",水 85.11,14,4,G3,551,715,-,803,3,1525,3167
+406,级,级,jí,2,"level, rank, class; grade",糸 120.3,6,3,G3,456,415,-,438,2,1887,594
+407,进,进,jìn,4,"advance, make progress, enter",辵 162.4,7,2,G1,79,81,-,192,3,2381,605
+408,选,选,xuǎn,3,"choose, select; elect; election",辵 162.6,9,3,G3,488,499,-,461,4,2397,1545
+409,丢,丢,diū,1,discard,一 1.5,6,4,G5,1287,1639,-,985,3,22,447
+410,贵,贵,guì,4,"expensive, costly, valuable",貝 154.5,9,2,G4,816,873,-,301,3,2280,1495
+411,友,友,yǒu,3,"friend, companion; fraternity",又 29.2,4,1,G2,334,594,-,132,3,371,97
+412,界,界,jiè,4,"boundary, limit; domain; society; the world",田 102.4,9,3,G2,269,288,-,411,3,1660,1496
+413,表,表,biǎo,3,"show, express, manifest, display",衣 145.3,8,2,G1,141,177,-,216,4,2150,951
+414,思,思,sī,1,"think, consider, ponder; final particle",心 61.5,9,2,G3,405,298,-,238,2,899,1500
+415,虽,虽,suī,1,"although, even if",虫 142.3,9,2,G3,490,504,-,269,3,2127,1502
+416,弟,弟,dì,4,"young brother; junior; i, me",弓 57.4,7,2,G1,194,816,-,295,2,846,854
+417,响,响,xiǎng,3,"make sound, make noise; sound",口 30.6,9,3,G3,489,503,-,462,5,461,1509
+418,咳,咳,hāi,1,cough,口 30.6,9,4,G7,2165,2373,-,1039,3,452,1513
+419,星,星,xīng,1,"a star, planet; any point of light",日 72.5,9,1,G2,326,537,-,128,4,1211,1488
+420,概,概,gài,4,"generally, approximately",木 75.9,13,4,G5,1052,791,-,822,3,1345,2871
+421,秒,秒,miǎo,3,beard of grain or corn; a second,禾 115.4,9,4,G6,1749,2028,-,1013,4,1793,1547
+422,香,香,xiāng,1,"fragrant, sweet smelling, incense",香 186.0,9,3,G3,562,776,-,513,5,2619,1548
+423,裤,裤,kù,4,"trousers, pants",衣 145.7,12,3,G6,1767,2090,-,605,2,2168,2791
+424,鼻,鼻,bí,2,nose; first; KangXi radical 209,鼻 209.0,14,3,G5,1209,1335,-,568,2,2659,3128
+425,半,半,bàn,4,half,十 24.3,5,3,G3,493,513,-,464,3,333,307
+426,吗,吗,ma,0,final interrogative particle,口 30.3,6,1,G2,313,453,-,120,2,413,432
+427,帮,帮,bāng,1,"help, assist; defend; shoe upper",巾 50.7,9,2,G2,353,769,-,290,4,801,1356
+428,圆,圆,yuán,2,"circle; round, circular; complete",囗 31.7,10,5,G3,623,1145,-,1307,4,532,1922
+429,城,城,chéng,2,"castle; city, town; municipality",土 32.7,9,3,G3,454,413,-,437,5,559,1373
+430,所,所,suǒ,3,"place, location; numerary adjunct",戶 63.4,8,2,G1,52,54,-,186,3,984,1164
+431,带,带,dài,4,"belt, girdle, band, strap, zone",巾 50.6,9,3,G1,177,342,-,424,3,799,1407
+432,草,草,cǎo,3,"grass, straw, thatch, herbs",艸 140.6,9,3,G3,566,789,-,515,3,2081,1408
+433,笼,笼,lóng,2,cage; cage-like basket,竹 118.5,11,6,G6,1714,1928,-,2071,4,1838,2318
+434,诉,诉,sù,4,accuse; sue; inform; narrate,言 149.5,7,2,G3,515,595,-,276,2,2212,894
+435,厅,厅,tīng,1,"hall, central room",厂 27.2,4,4,G5,1165,1217,-,916,4,353,90
+436,新,新,xīn,1,"new, recent, fresh, modern",斤 69.9,13,2,G2,215,161,-,214,3,1184,2994
+437,愉,愉,yú,2,"pleasant, delightful; please",心 61.9,12,4,G5,1342,1982,-,1011,2,952,2777
+438,面,面,miàn,4,"face; surface; plane; side, dimension",面 176.0,9,1,G1,72,74,-,44,4,2568,1455
+439,业,业,yè,4,"profession, business; GB radical 111",一 1.4,5,3,G2,208,130,-,372,2,18,231
+440,恭,恭,gōng,1,"respectful, polite, reverent",心 61.6,10,5,G7,1984,1742,-,1494,4,915,1820
+441,咸,咸,xián,2,"together; all, completely; united",口 30.6,9,4,G7,2205,2525,-,1047,4,453,1443
+442,啤,啤,pí,2,beer,口 30.8,11,3,G3,637,2849,*,615,2,487,2289
+443,工,工,gōng,1,"labor, work; worker, laborer",工 48.0,3,1,G1,102,118,-,60,4,776,26
+444,离,离,lí,2,rare beast; strange; elegant,禸 114.6,10,2,G3,458,418,-,260,2,1785,2035
+445,皮,皮,pí,2,"skin, hide, fur, feather; outer",皮 107.0,5,3,G3,556,741,-,508,2,1700,336
+446,报,报,bào,4,"report, tell, announce",手 64.4,7,2,G2,246,234,-,229,3,1023,656
+447,已,已,yǐ,3,already; finished; stop,己 49.0,3,2,G2,206,117,-,202,2,783,61
+448,烧,烧,shāo,1,burn; bake; heat; roast,火 86.6,10,3,G4,905,1201,-,562,4,1564,2060
+449,根,根,gēn,1,"root, base(d on); foundation",木 75.6,10,3,G3,425,352,-,426,3,1310,1850
+450,终,终,zhōng,1,"end; finally, in the end",糸 120.5,8,3,G3,507,558,-,472,5,1905,1344
+451,赞,赞,zàn,4,"help, support, assist, aid",貝 154.12,16,5,G5,1155,1179,-,1323,3,2297,3355
+452,黑,黑,hēi,1,"black; dark; evil, sinister",黑 203.0,12,2,G3,495,519,-,272,3,2655,2655
+453,事,事,shì,4,"affair, matter, business; to serve; accident, incident",亅 6.7,8,2,G1,56,58,-,188,3,61,1038
+454,饺,饺,jiǎo,3,stuffed dumplings,食 184.6,9,4,G8,2585,3650,-,1064,4,2610,1613
+455,雨,雨,yǔ,3,rain; rainy; KangXi radical 173,雨 173.0,8,1,G2,362,928,-,156,2,2550,1041
+456,广,广,guǎng,3,"wide, extensive, broad; rad. 53",广 53.0,3,4,G4,680,468,-,723,5,815,53
+457,值,值,zhí,2,price,人 9.8,10,4,G4,729,600,-,770,3,179,1956
+458,接,接,jiē,1,receive; continue; catch; connect,手 64.8,11,3,G2,253,247,-,403,3,1104,2185
+459,后,后,hòu,4,"queen, empress, sovereign; (simp. for 後) behind, rear, after",口 30.3,6,1,G1,46,48,-,32,3,409,482
+460,据,据,jù,4,"to occupy, take possession of; a base, position",手 64.8,11,3,G5,983,313,-,419,2,1092,2189
+461,爸,爸,bà,4,"father, papa",父 88.4,8,1,G1,195,1050,-,162,2,1589,1171
+462,辆,辆,liàng,4,numerary adjunct for vehicles,車 159.7,11,3,G5,1223,1375,-,571,5,2348,2251
+463,堂,堂,táng,2,hall; government office,土 32.8,11,6,G4,841,980,-,1734,4,563,2256
+464,际,际,jì,4,"border, boundary, juncture",阜 170.5,7,4,G5,990,423,-,711,2,2518,911
+465,层,层,céng,2,"storey, layer, floor, stratum",尸 44.4,7,3,G4,758,699,-,499,4,741,902
+466,跳,跳,tiào,4,"jump, leap, vault, bounce; dance",足 157.6,13,2,G2,365,999,-,310,4,2321,2915
+467,如,如,rú,2,"if, supposing; as if; like, as",女 38.3,6,3,G1,65,67,-,359,2,625,578
+468,梯,梯,tī,1,"ladder, steps, stairs; lean",木 75.7,11,3,G5,1296,1672,-,587,2,1327,2229
+469,好,好,hǎo,3,"good, excellent, fine; well",女 38.3,6,1,G1,80,82,-,49,3,624,581
+470,圈,圈,quān,1,to circle; a circle; corral,囗 31.8,11,5,G5,1219,1366,-,1380,4,533,2302
+471,会,会,huì,4,"assemble, meet together; meeting",人 9.4,6,1,G1,29,29,-,23,3,115,486
+472,银,银,yín,2,"silver; cash, money, wealth",金 167.6,11,3,G4,776,757,-,511,3,2474,2309
+473,名,名,míng,2,"name, rank, title, position",口 30.3,6,1,G1,152,203,-,80,4,408,505
+474,词,词,cí,2,"words; phrase, expression",言 149.5,7,3,G3,603,959,-,536,2,2214,897
+475,息,息,xī,1,"rest, put stop to, end, cease",心 61.6,10,2,G3,461,428,-,262,2,916,1973
+476,乒,乒,pīng,1,used with pong for ping pong,丿 4.5,6,4,G8,2572,3447,-,1062,4,44,456
+477,舒,舒,shū,1,"open up, unfold, stretch out; comfortable, easy",舌 135.6,12,3,G5,1246,1459,-,579,3,2047,2707
+478,提,提,tí,2,hold in hand; lift in hand,手 64.9,12,3,G3,382,196,-,390,2,1114,2520
+479,救,救,jiù,4,"save, rescue, relieve; help, aid",攴 66.7,11,5,G3,587,872,-,1213,3,1163,2232
+480,漫,漫,màn,4,overflow of water; spreading,水 85.11,14,4,G6,1552,1455,-,956,3,1527,3164
+481,四,四,sì,4,four,囗 31.2,5,1,G1,159,226,-,87,2,522,262
+482,身,身,shēn,1,"body; trunk, hull; rad. no. 158",身 158.0,7,2,G1,134,164,-,215,4,2334,786
+483,骑,骑,qí,2,ride horseback; mount; cavalry,馬 187.8,11,3,G4,934,1398,-,574,2,2630,2489
+484,瓜,瓜,guā,1,"melon, gourd, cucumber; rad. 97",瓜 97.0,5,2,G4,973,1827,-,340,3,1640,279
+485,别,别,bié,2,"separate, other; do not",刀 18.5,7,2,G1,157,222,-,228,3,275,751
+486,乎,乎,hū,1,interrogative or exclamatory final particle,丿 4.4,5,3,G4,677,458,-,448,2,41,280
+487,差,差,chà,4,"to differ; different, wrong; nearly, almost; an officer",工 48.7,9,3,G4,768,732,-,506,3,781,1640
+488,用,用,yòng,4,"use, employ, apply, operate; use",用 101.0,5,3,G1,49,51,-,353,4,1649,283
+489,闻,闻,wén,2,hear; smell; make known; news,門 169.6,9,3,G4,797,825,-,520,3,2503,1636
+490,印,印,yìn,4,"print, seal, stamp, chop, mark",卩 26.4,5,4,G4,737,640,-,782,3,346,285
+491,乐,乐,lè,4,"happy, glad; enjoyable; music",丿 4.4,5,2,G1,191,619,-,280,2,43,287
+492,美,美,měi,3,"beautiful, pretty; pleasing",羊 123.3,9,4,G1,125,151,-,630,3,1950,1642
+493,送,送,sòng,4,"see off, send off; dispatch, give",辵 162.6,9,2,G3,536,656,-,285,4,2393,1645
+494,洗,洗,xǐ,3,"wash, rinse; clean, purify",水 85.6,9,2,G3,627,1247,-,329,2,1446,1671
+495,候,候,hòu,4,wait; expect; visit; greet,人 9.8,10,1,G1,176,341,-,104,3,174,1964
+496,活,活,huó,2,"live, exist, survive; lively",水 85.6,9,4,G2,237,219,-,644,3,1451,1672
+497,着,着,zhe,0,"make move, take action",目 109.6,11,2,G1,39,41,-,183,3,1729,2398
+498,派,派,pài,4,"school of thought, sect, branch",水 85.6,9,5,G4,701,532,-,1122,3,1453,1673
+499,觉,觉,jué,2,to wake up from sleep; conscious,見 147.5,9,1,G1,175,327,-,99,3,2180,1694
+500,期,期,qī,1,period of time; date; time limit,月 74.8,12,1,G2,257,253,-,93,2,1254,2542
+501,超,超,chāo,1,"jump over, leap over; surpass",走 156.5,12,3,G5,1042,754,-,510,4,2306,2517
+502,越,越,yuè,4,"exceed, go beyond; the more ...",走 156.5,12,3,G3,465,440,-,441,3,2307,2514
+503,旧,旧,jiù,4,"old, ancient; former, past",日 72.1,5,3,G4,829,915,-,529,3,1196,232
+504,椅,椅,yǐ,3,"chair, seat",木 75.8,12,1,G5,1293,1663,-,171,2,1338,2569
+505,博,博,bó,2,"gamble, play games; wide, broad",十 24.10,12,4,G5,1094,965,-,870,2,341,2521
+506,是,是,shì,4,"indeed, yes, right; to be; demonstrative pronoun, this, that",日 72.5,9,1,G1,3,3,-,3,3,1216,1479
+507,糖,糖,táng,2,sugar; candy; sweets,米 119.10,16,4,G4,968,1746,-,994,4,1872,3374
+508,糕,糕,gāo,1,"cakes, pastry",米 119.10,16,3,G5,1375,2413,-,610,3,1871,3375
+509,澡,澡,zǎo,3,"wash, bathe",水 85.13,16,3,G6,1848,2695,-,614,3,1533,3378
+510,梦,梦,mèng,4,dream; visionary; wishful,木 75.7,11,4,G4,812,865,-,849,4,1325,2221
+511,懒,懒,lǎn,3,"lazy, languid, listless",心 61.13,16,4,G5,1362,2230,-,1027,3,972,3380
+512,帅,帅,shuài,4,"commander, commander-in-chief",巾 50.2,5,4,G7,2022,1888,-,1005,5,790,233
+513,戴,戴,dài,4,wear on top; support,戈 62.14,17,4,G5,1169,1228,-,919,3,981,3388
+514,答,答,dá,2,"answer, reply; return; assent to",竹 118.6,12,3,G2,328,559,-,473,2,1844,2687
+515,温,温,wēn,1,lukewarm,水 85.9,12,4,G3,585,867,-,851,3,1496,2757
+516,赛,赛,sài,4,"compete, contend; contest, race",宀 40.11,14,3,G3,615,1064,-,550,3,2296,3172
+517,巧,巧,qiǎo,3,"skillful, ingenious, clever",工 48.2,5,4,G5,1166,1219,-,918,4,778,197
+518,卖,卖,mài,4,sell; betray; show off,十 24.6,8,2,G3,604,974,-,307,3,339,1042
+519,节,节,jié,2,"knot, node, joint; section",艸 140.2,5,3,G2,323,514,-,465,3,2064,209
+520,花,花,huā,1,flower; blossoms,艸 140.4,7,3,G1,185,410,-,436,3,2066,665
+521,让,让,ràng,4,"allow, permit, yield, concede",言 149.3,5,2,G2,286,339,-,246,4,2194,317
+522,附,附,fù,4,"adhere to, append; rely on near to",阜 170.5,7,3,G4,831,923,-,531,2,2517,916
+523,努,努,nǔ,3,"to exert, strive, make an effort; to pout",力 19.5,7,3,G3,617,1081,-,554,2,306,924
+524,茶,茶,chá,2,tea,艸 140.6,9,1,G4,914,1272,-,165,3,2080,1411
+525,鸡,鸡,jī,1,chicken,鳥 196.2,7,2,G4,932,1391,-,337,2,2646,928
+526,谁,谁,shuí,2,who? whom? whose? anyone?,言 149.8,10,1,G3,534,648,-,138,4,2238,2122
+527,真,真,zhēn,1,"real, actual, true, genuine",目 109.5,10,2,G1,153,204,-,224,4,1723,1832
+528,校,校,xiào,4,school; military field officer,木 75.6,10,1,G2,338,633,-,136,4,1306,1847
+529,样,样,yàng,4,"shape, form, pattern, style",木 75.6,10,1,G1,84,88,-,52,4,1308,1849
+530,票,票,piào,4,slip of paper or bamboo; ticket,示 113.6,11,2,G4,828,910,-,303,4,1781,2235
+531,筷,筷,kuài,4,chopsticks,竹 118.7,13,3,G6,1865,3110,-,617,4,1847,2955
+532,像,像,xiàng,4,"a picture, image, figure; to resemble",人 9.12,13,3,G1,170,294,-,413,5,195,2961
+533,码,码,mǎ,3,"number, numerals; yard; symbol",石 112.3,8,4,G6,1517,1345,-,943,2,1752,1046
+534,微,微,wēi,1,"small, prefix micro-, trifling",彳 60.10,13,4,G4,742,653,-,784,3,877,2965
+535,腿,腿,tuǐ,3,"legs, thighs",肉 130.10,13,3,G5,1214,1351,-,569,3,2029,2976
+536,休,休,xiū,1,"rest, stop; retire; do not!",人 9.4,6,2,G3,618,1082,-,320,3,111,458
+537,警,警,jǐng,3,"guard, watch; alert, alarm",言 149.13,19,4,G4,754,687,-,794,4,2187,3453
+538,汁,汁,zhī,1,"juice, liquor, fluid, sap, gravy, sauce",水 85.2,5,4,G5,1381,2540,-,1048,3,1397,308
+539,故,故,gù,4,"ancient, old; reason, because",攴 66.5,9,3,G2,330,572,-,477,2,1159,1418
+540,调,调,diào,4,"transfer, move, change; tune",言 149.8,10,3,G3,448,400,-,433,4,2239,2123
+541,算,算,suàn,4,"count, calculate, figure; plan",竹 118.8,14,3,G3,451,403,-,434,4,1851,3121
+542,季,季,jì,4,quarter of year; season; surname,子 39.5,8,3,G4,915,1279,-,567,2,670,1132
+543,烤,烤,kǎo,3,"bake, roast, toast, cook",火 86.6,10,4,G6,1844,2629,-,1050,3,1562,2057
+544,巴,巴,bā,1,"greatly desire, anxiously hope",己 49.1,4,5,G4,707,546,-,1124,2,784,178
+545,办,办,bàn,4,"manage, do, handle; deal with",力 19.2,4,3,G3,432,367,-,429,3,299,181
+546,证,证,zhèng,4,"prove, confirm, verify; proof",言 149.5,7,4,G5,986,373,-,696,5,2208,885
+547,净,净,jìng,4,"clean, pure; cleanse",冫 15.6,8,3,G4,927,1377,-,572,4,245,1221
+548,聪,聪,cōng,1,"intelligent, clever, bright",耳 128.9,15,3,G5,1295,1669,-,586,4,1979,3206
+549,近,近,jìn,4,"near, close; approach; intimate",辵 162.4,7,2,G3,435,374,-,253,3,2377,791
+550,受,受,shòu,4,"receive, accept, get; bear, stand",又 29.6,8,4,G2,249,238,-,648,4,377,1174
+551,希,希,xī,1,"rare; hope, expect, strive for",巾 50.4,7,2,G2,321,508,-,270,2,793,796
+552,但,但,dàn,4,"only; but, however, yet, still",人 9.5,7,2,G1,90,95,-,193,3,129,774
+553,坐,坐,zuò,4,"sit; seat; ride, travel by",土 32.4,7,1,G2,335,611,-,135,3,543,797
+554,销,销,xiāo,1,"melt, fuse; market, sell",金 167.7,12,5,G7,1889,904,-,1227,4,2478,2659
+555,感,感,gǎn,3,"feel, perceive, emotion",心 61.9,13,3,G2,252,243,-,402,3,955,2875
+556,汤,汤,tāng,1,"hot water; soup, gravy, broth",水 85.3,6,4,G5,1280,1618,-,979,4,1405,542
+557,锅,锅,guō,1,"cooking-pot, saucepan",金 167.7,12,5,G5,1352,2074,-,1573,3,2480,2662
+558,步,步,bù,4,"step, pace; walk, stroll",止 77.3,7,2,G3,423,349,-,249,2,1366,710
+559,段,段,duàn,4,"section, piece, division",殳 79.5,9,3,G3,511,567,-,476,4,1377,1555
+560,读,读,dú,2,"read, study; pronounce",言 149.8,10,1,G2,351,752,-,147,2,2235,2112
+561,外,外,wài,4,"out, outside, external; foreign",夕 36.2,5,2,G1,112,131,-,206,3,595,293
+562,汽,汽,qì,4,"steam, vapor, gas",水 85.4,7,2,G4,904,1200,-,324,2,1408,861
+563,台,台,tái,2,platform; unit; term of address,口 30.2,5,4,G3,444,388,-,700,3,393,342
+564,碗,碗,wǎn,3,"bowl, small dish",石 112.8,13,3,G5,1336,1939,-,600,3,1766,2881
+565,忙,忙,máng,2,"busy, pressed for time; hustling",心 61.3,6,2,G3,576,827,-,297,4,886,543
+566,室,室,shì,4,"room, home, house, chamber",宀 40.6,9,2,G3,550,708,-,288,3,693,1697
+567,讲,讲,jiǎng,3,explain; discuss; talk,言 149.4,6,3,G3,505,555,-,470,5,2199,550
+568,项,项,xiàng,4,"neck, nape of neck; sum; funds",頁 181.3,9,5,G4,716,571,-,1130,5,2577,1370
+569,论,论,lùn,4,debate; discuss; discourse,言 149.4,6,4,G3,385,205,-,640,3,2203,556
+570,始,始,shǐ,3,"begin, start; then, only then",女 38.5,8,2,G3,442,381,-,256,3,637,1329
+571,眼,眼,yǎn,3,"eye; eyelet, hole, opening",目 109.6,11,2,G2,267,281,-,235,3,1728,2263
+572,容,容,róng,2,"looks, appearance; figure, form",宀 40.7,10,3,G2,308,442,-,442,4,701,2105
+574,路,路,lù,4,"road, path, street; journey",足 157.6,13,2,G1,173,305,-,241,2,2320,2918
+575,园,园,yuán,2,"garden; park, orchard",囗 31.4,7,3,G3,607,988,-,540,4,526,726
+576,励,励,lì,4,strive; encourage,力 19.5,7,4,G5,1248,1468,-,961,2,308,702
+577,般,般,bān,1,"sort, manner, kind, category",舟 137.4,10,3,G4,735,629,-,489,3,2052,1980
+578,该,该,gāi,1,"should, ought to, need to",言 149.6,8,3,G3,413,319,-,421,3,2222,1300
+579,严,严,yán,2,"strict, rigorous, rigid; stern",一 1.6,7,4,G4,706,545,-,749,3,24,671
+580,种,种,zhǒng,3,"seed; race, breed; to plant",禾 115.4,9,3,G1,55,57,-,355,5,1791,1549
+581,本,本,běn,3,"root, origin, source; basis",木 75.1,5,1,G1,87,92,-,54,3,1258,210
+582,术,术,shù,4,"art, skill, special feat; method, technique",木 75.1,5,4,G4,653,328,-,680,3,1259,211
+584,谅,谅,liàng,4,"excuse, forgive; guess, presume",言 149.8,10,4,G6,1775,2120,-,1018,5,2240,2125
+585,目,目,mù,4,"eye; look, see; division, topic",目 109.0,5,3,G2,250,239,-,401,2,1713,236
+586,版,版,bǎn,3,printing blocks; edition,片 91.4,8,5,G6,1412,810,-,1198,3,1592,1143
+587,片,片,piàn,4,"slice, splinter, strip; rad. 91",片 91.0,4,3,G2,314,455,-,446,4,1591,130
+588,歉,歉,qiàn,4,"deficient, lacking, insufficient",欠 76.10,14,4,G7,2101,2149,-,1023,4,1361,3155
+589,山,山,shān,1,"mountain, hill, peak",山 46.0,3,3,G1,165,259,-,407,4,753,39
+590,哪,哪,nǎ,3,which? where? how?,口 30.7,9,1,G3,535,652,-,139,2,468,1515
+591,父,父,fù,4,father; KangXi radical 88,父 88.0,4,4,G2,333,589,-,765,2,1587,141
+592,时,时,shí,2,"time, season; era, age, period",日 72.3,7,1,G1,25,25,-,21,3,1201,717
+593,饱,饱,bǎo,3,,食 184.5,8,3,G5,1346,1998,-,602,3,2607,1202
+594,变,变,biàn,4,"change, transform, alter; rebel",又 29.6,8,3,G2,240,225,-,395,4,378,1204
+595,察,察,chá,2,"examine, investigate; notice",宀 40.11,14,4,G4,713,564,-,757,3,713,3174
+596,熊,熊,xióng,2,a bear; brilliant; bright; surname,火 86.10,14,3,G6,1654,1741,-,590,5,1577,3185
+597,鲜,鲜,xiān,1,fresh; delicious; attractive,魚 195.6,14,3,G4,837,958,-,535,4,2644,3135
+598,角,角,jiǎo,3,"horn; angle, corner; point",角 148.0,7,3,G3,555,736,-,507,4,2181,814
+599,牛,牛,niú,2,"cow, ox, bull; KangXi radical93",牛 93.0,4,2,G3,611,1018,-,314,3,1595,120
+600,远,远,yuǎn,3,"distant, remote, far; profound",辵 162.4,7,2,G2,297,386,-,257,4,2382,608
+601,英,英,yīng,1,"petal, flower, leaf; brave, a hero; England, English",艸 140.5,8,5,G3,433,371,-,1088,4,2074,1006
+602,笔,笔,bǐ,3,writing brush; write; stroke,竹 118.4,10,2,G3,602,956,-,306,2,1834,1951
+603,直,直,zhí,2,"straight, erect, vertical",目 109.3,8,3,G2,258,255,-,406,3,1716,1011
+604,惯,惯,guàn,4,"habit, custom; habitually, usual",心 61.8,11,3,G4,909,1226,-,565,4,946,2450
+605,蛋,蛋,dàn,4,eggs; term of abuse,虫 142.5,11,2,G4,929,1387,-,336,3,2132,2477
+606,没,没,méi,2,"not, have not, none; drown, sink",水 85.4,7,1,G1,70,72,-,43,3,1415,867
+607,婚,婚,hūn,1,"get married; marriage, wedding",女 38.8,11,3,G5,1084,942,-,534,3,653,2481
+608,慢,慢,màn,4,"slow(ly), leisurely, sluggish",心 61.11,14,2,G3,574,822,-,296,3,964,3169
+609,岁,岁,suì,4,year; age; harvest,山 46.3,6,1,G3,560,772,-,149,3,755,436
+610,回,回,huí,2,"return, turn around; a time",囗 31.3,6,1,G1,140,172,-,74,3,523,438
+611,刚,刚,gāng,1,"hard, tough, rigid, strong",刀 18.4,6,3,G3,528,621,-,488,4,269,441
+612,网,网,wǎng,3,net; network; KangXi radical 122,网 122.0,6,3,G6,1395,605,-,483,4,1941,442
+613,再,再,zài,4,"again, twice, re-",冂 13.4,6,1,G1,163,242,-,91,3,231,382
+614,协,协,xié,2,be united; cooperate,十 24.4,6,6,G6,1400,735,-,1699,3,335,383
+615,西,西,xī,2,"west(ern); westward, occident",襾 146.0,6,1,G1,136,167,-,71,2,2171,384
+616,压,压,yā,1,press; oppress; crush; pressure,厂 27.4,6,4,G4,775,756,-,813,2,356,385
+617,在,在,zài,4,"be at, in, on; consist in, rest",土 32.3,6,1,G1,6,6,-,6,3,536,388
+618,件,件,jiàn,4,numerary adjunct for article; matter,人 9.4,6,2,G2,255,250,-,232,4,102,466
+619,扮,扮,bàn,4,dress up; dress up as,手 64.4,7,4,G6,1731,1974,-,1010,3,1002,636
+620,酸,酸,suān,1,"tart, sour; acid; stiff; spoiled",酉 164.7,14,4,G5,1244,1456,-,957,4,2443,3089
+621,阳,阳,yáng,2,,阜 170.4,6,3,G2,342,650,-,494,4,2511,572
+622,需,需,xū,1,"need, require, must",雨 173.6,14,3,G4,665,408,-,435,2,2556,3095
+623,她,她,tā,1,"she, her",女 38.3,6,1,G2,199,91,-,53,2,623,582
+624,放,放,fàng,4,"put, release, free, liberate",攴 66.4,8,3,G1,169,291,-,412,4,1157,1223
+625,第,第,dì,4,"sequence, number; grade, degree",竹 118.5,11,2,G1,100,114,-,200,2,1837,2322
+627,刷,刷,shuā,1,"brush; clean with brush, scrub",刀 18.6,8,3,G5,1317,1824,-,594,4,279,1310
+628,谈,谈,tán,2,talk; conversation; surname,言 149.8,10,4,G3,476,474,-,725,3,2241,2127
+629,助,助,zhù,4,"help, aid, assist",力 19.5,7,2,G3,522,607,-,279,3,305,719
+630,脚,脚,jiǎo,3,"leg, foot; base, leg, foundation",肉 130.7,11,3,G3,567,790,-,516,4,2018,2355
+631,律,律,lǜ,4,"statute, principle, regulation",彳 60.6,9,4,G5,996,526,-,741,2,870,1583
+632,充,充,chōng,1,"fill, be full, supply",儿 10.4,6,5,G4,755,690,-,1161,5,203,525
+633,很,很,hěn,3,"very, quite, much",彳 60.6,9,1,G1,117,138,-,66,3,868,1584
+634,胖,胖,pàng,4,"fat, obese; fatty",肉 130.5,9,3,G5,1328,1893,-,597,4,2004,1596
+635,朋,朋,péng,2,"friend, pal, acquaintance",月 74.4,8,1,G2,359,882,-,153,4,1249,1185
+636,清,清,qīng,1,"clear, pure, clean; peaceful",水 85.8,11,3,G2,284,335,-,423,4,1489,2410
+637,急,急,jí,2,"quick, quickly; urgent, pressing",心 61.5,9,3,G3,537,657,-,495,2,901,1609
+638,迎,迎,yíng,2,"receive, welcome, greet",辵 162.4,7,3,G5,1124,1069,-,552,4,2375,822
+639,费,费,fèi,4,"expenses, expenditures, fee",貝 154.5,9,4,G3,481,486,-,730,3,2283,1726
+640,苦,苦,kǔ,3,"bitter; hardship, suffering",艸 140.5,8,4,G2,339,634,-,781,2,2073,999
+641,房,房,fáng,2,"house, building; room",戶 63.4,8,2,G2,322,512,-,271,4,983,1290
+642,杯,杯,bēi,1,"cup, glass",木 75.4,8,1,G4,933,1396,-,167,3,1277,1020
+643,跟,跟,gēn,1,"heel; to follow, accompany; with",足 157.6,13,3,G1,189,541,-,468,3,2317,2920
+644,聚,聚,jù,4,"assemble, meet together, collect",耳 128.8,14,4,G5,1196,1306,-,934,2,1978,3065
+645,必,必,bì,4,"surely, most certainly; must",心 61.1,5,3,G3,391,248,-,404,2,880,321
+646,秋,秋,qiū,1,"autumn, fall; year",禾 115.4,9,3,G4,891,1151,-,559,3,1790,1550
+647,假,假,jiǎ,3,"falsehood, deception; vacation",人 9.9,11,3,G3,530,636,-,491,3,181,2337
+648,员,员,yuán,2,"member; personnel, staff member",口 30.4,7,2,G3,384,200,-,223,4,435,737
+649,迟,迟,chí,2,"late, tardy; slow; delay",辵 162.4,7,3,G5,1222,1374,-,570,3,2385,906
+650,听,听,tīng,1,"hear; understand; obey, comply",口 30.4,7,1,G1,167,285,-,96,4,423,739
+651,短,短,duǎn,3,"short; brief; deficient, lacking",矢 111.7,12,3,G4,821,889,-,526,4,1748,2669
+652,邮,邮,yóu,2,"postal, mail; post office",邑 163.5,7,3,G5,1289,1652,-,584,3,2426,732
+653,初,初,chū,1,"beginning, initial, primary",刀 18.5,7,5,G4,747,667,-,1149,3,271,889
+654,权,权,quán,2,"power, right, authority",木 75.2,6,5,G5,982,297,-,1080,4,1266,378
+655,作,作,zuò,4,"make; work; compose, write; act, perform",人 9.5,7,1,G1,47,49,-,33,3,137,777
+656,享,享,xiǎng,3,enjoy,亠 8.6,8,5,G5,1168,1227,-,1337,5,75,1206
+657,理,理,lǐ,3,"reason, logic; manage",玉 96.7,11,3,G1,85,89,-,364,2,1636,2157
+658,服,服,fú,2,"clothes; wear, dress",月 74.4,8,1,G2,292,365,-,107,2,1250,1190
+659,解,解,jiě,3,"loosen, unfasten, untie; explain",角 148.6,13,3,G2,230,201,-,391,3,2182,2981
+660,海,海,hǎi,3,"sea, ocean; maritime",水 85.7,10,4,G2,225,189,-,636,3,1466,2074
+661,易,易,yì,4,change; easy,日 72.4,8,3,G3,470,461,-,451,2,1209,1088
+662,己,己,jǐ,3,"self, oneself; personal, private; 6th heavenly stem",己 49.0,3,3,G1,133,162,-,382,2,782,60
+663,典,典,diǎn,3,"law, canon; documentation; classic, scripture",八 12.6,8,3,G5,1120,1044,-,547,4,225,1092
+664,喜,喜,xǐ,3,"like, love, enjoy; joyful thing",口 30.9,12,1,G1,192,668,-,140,2,499,2523
+665,蕉,蕉,jiāo,1,banana; plantain,艸 140.12,15,3,G6,1864,3104,-,616,4,2113,3209
+666,汇,汇,huì,4,"concourse; flow together, gather",水 85.2,5,5,G8,2294,1187,-,1327,3,1399,309
+667,头,头,tóu,2,"head; top; chief, first; boss",大 37.2,5,3,G1,122,147,-,377,3,605,310
+668,亚,亚,yà,4,Asia; second,一 1.5,6,4,G5,988,420,-,709,2,69,373
+669,景,景,jǐng,3,"scenery, view; conditions",日 72.8,12,4,G3,573,814,-,830,4,1228,2626
+670,错,错,cuò,4,"error, blunder, mistake; wrong",金 167.8,13,2,G3,532,638,-,282,3,2484,2936
+671,跑,跑,pǎo,3,"run, flee, leave in hurry",足 157.5,12,2,G2,358,864,-,300,3,2315,2631
+672,正,正,zhèng,4,"right, proper, correct",止 77.1,5,2,G1,111,129,-,205,5,1364,198
+673,喝,喝,hē,1,"drink; shout, call out",口 30.9,12,1,G3,606,983,-,159,2,500,2639
+674,遇,遇,yù,4,"meet, come across, encounter",辵 162.9,12,3,G4,823,899,-,527,2,2413,2622
+675,零,零,líng,2,"zero; fragment, fraction",雨 173.5,13,2,G4,925,1342,-,335,4,2552,2885
+677,冰,冰,bīng,1,ice; ice-cold,冫 15.4,6,3,G4,870,1070,-,553,4,239,513
+678,的,的,de,0,"possessive, adjectival suffix",白 106.3,8,1,G1,1,1,-,1,2,1697,1155
+679,误,误,wù,4,"err, make mistake; interfere",言 149.7,9,4,G5,1060,854,-,845,2,2228,1714
+680,泳,泳,yǒng,3,dive; swim,水 85.5,8,2,G4,978,2607,-,346,4,1439,1257
+681,蔬,蔬,shū,1,"vegetables, greens",艸 140.11,15,5,G7,2246,2721,-,1664,3,2110,3211
+682,绿,绿,lǜ,4,green; chlorine,糸 120.8,11,3,G3,619,1088,-,555,2,1927,2498
+683,款,款,kuǎn,3,"item, article; clause; fund",欠 76.8,12,4,G6,1410,807,-,826,4,1359,2508
+684,绩,绩,jī,1,spin; achievements,糸 120.8,11,3,G4,953,1547,-,580,2,1920,2486
+685,这,这,zhè,4,"this, the, here",辵 162.4,7,1,G1,11,11,-,11,3,2380,837
+686,南,南,nán,2,south; southern part; southward,十 24.7,9,3,G3,409,307,-,417,3,340,1422
+687,冷,冷,lěng,3,"cold, cool; lonely",冫 15.5,7,1,G4,759,700,-,143,4,243,838
+688,华,华,huá,2,flowery; illustrious; Chinese,十 24.4,6,5,G3,453,412,-,1096,3,334,472
+689,辛,辛,xīn,1,"bitter; toilsome, laborious; 8th heavenly stem",辛 160.0,7,4,G4,943,1463,-,958,3,2357,841
+690,克,克,kè,4,gram; overcome; transliteration,儿 10.5,7,4,G4,643,262,-,657,2,207,675
+691,说,说,shuō,1,"speak, say, talk; scold, upbraid",言 149.7,9,1,G1,24,24,-,20,4,2230,1717
+692,重,重,zhòng,4,"heavy, weighty; double",里 166.2,9,3,G1,119,140,-,373,5,2451,1552
+693,张,张,zhāng,1,"stretch, extend, expand; sheet",弓 57.4,7,3,G2,280,318,-,420,5,847,909
+694,学,学,xué,2,"learning, knowledge; school",子 39.5,8,1,G1,64,66,-,39,3,672,1273
+695,左,左,zuǒ,3,"left; east; unorthodox, improper",工 48.2,5,2,G4,782,782,-,291,3,777,214
+696,瓶,瓶,píng,2,"jug, pitcher, vase, jar, bottle",瓦 98.6,10,3,G4,966,1703,-,588,4,1643,2051
+697,右,右,yòu,4,right; west; right-wing,口 30.2,5,2,G4,783,783,-,292,3,395,217
+698,龙,龙,lóng,2,dragon; symbolic of emperor,龍 212.0,5,5,G4,757,696,-,1163,4,2663,221
+699,平,平,píng,2,"flat, level, even; peaceful",干 51.2,5,3,G2,235,215,-,393,4,808,222
+700,东,东,dōng,1,"east, eastern, eastward",一 1.4,5,1,G1,148,194,-,78,4,20,225
+701,偷,偷,tōu,1,"to steal, burglar, thief",人 9.9,11,5,G4,916,1284,-,1349,3,187,2330
+702,妈,妈,mā,1,"mother, mama",女 38.3,6,1,G1,193,750,-,146,2,629,583
+703,做,做,zuò,4,"work, make; act",人 9.9,11,1,G1,164,246,-,92,3,183,2324
+704,相,相,xiāng,1,"mutual, reciprocal, each other",目 109.4,9,3,G1,126,152,-,379,5,1717,1430
+705,停,停,tíng,2,"stop, suspend, delay; suitable",人 9.9,11,4,G3,548,693,-,798,4,184,2333
+706,意,意,yì,4,"thought, idea, opinion; think",心 61.9,13,2,G1,96,104,-,197,2,953,2996
+708,排,排,pái,2,"row, rank, line",手 64.8,11,4,G3,545,682,-,792,3,1100,2168
+709,周,周,zhōu,1,Zhou dynasty; circumference,口 30.5,8,3,G3,482,490,-,458,4,437,1192
+710,实,实,shí,2,"real, true; honest, sincere",宀 40.5,8,3,G2,200,100,-,367,3,688,1285
+711,眉,眉,méi,2,eyebrows; upper margin of book,目 109.4,9,5,G6,1554,1460,-,1412,3,1721,1729
+712,孩,孩,hái,2,"baby, child; children",子 39.6,9,2,G2,325,533,-,274,3,673,1730
+713,突,突,tū,1,"suddenly, abruptly, unexpectedly",穴 116.4,9,3,G4,686,484,-,457,2,1816,1700
+714,密,密,mì,4,"dense, thick, close; intimate",宀 40.8,11,4,G4,725,591,-,766,2,707,2458
+715,味,味,wèi,4,"taste, smell, odor; delicacy",口 30.5,8,4,G3,581,844,-,841,3,438,1078
+716,辣,辣,là,4,"peppery, pungent, hot; cruel",辛 160.7,14,4,G8,2395,2420,-,1041,2,2361,3148
+717,行,行,xíng,2,"go; walk; move, travel; circulate",行 144.0,6,3,G1,51,53,-,354,4,2143,483
+718,礼,礼,lǐ,3,social custom; manners; courtesy,示 113.1,5,3,G3,595,926,-,532,2,1775,318
+719,音,音,yīn,1,"sound, tone, pitch, pronunciation",音 180.0,9,3,G2,327,540,-,467,3,2574,1632
+720,教,教,jiào,4,"teach, class",攴 66.7,11,2,G2,227,191,-,221,4,1164,2179
+721,飞,飞,fēi,1,fly; go quickly; dart; high,乙 5.2,3,1,G2,289,347,-,105,3,2599,69
+722,灯,灯,dēng,1,"lantern, lamp",火 86.2,6,3,G3,621,1115,-,557,4,1540,534
+723,鸭,鸭,yā,1,duck; Anas species (various),鳥 196.5,10,4,G5,1357,2133,-,1021,2,2649,1892
+724,换,换,huàn,4,change,手 64.7,10,3,G3,575,824,-,519,4,1089,1806
+725,粉,粉,fěn,3,"powder, face powder; plaster",米 119.4,10,6,G5,1257,1498,-,1877,3,1862,2053
+726,留,留,liú,2,"stop, halt; stay, detain, keep",田 102.5,10,3,G3,504,554,-,469,3,1663,2009
+727,裙,裙,qún,2,"skirt, apron, petticoat",衣 145.7,12,3,G7,2180,2431,-,611,3,2167,2792
+728,两,两,liǎng,3,"two, both, pair, couple; ounce",一 1.6,7,2,G1,113,133,-,207,5,23,697
+729,谢,谢,xiè,4,thank; decline,言 149.10,12,1,G3,588,897,-,154,3,2249,2795
+730,邻,邻,lín,2,neighbor; neighborhood,邑 163.5,7,3,G4,962,1659,-,585,3,2427,801
+731,街,街,jiē,1,"street, road, thoroughfare",行 144.6,12,3,G3,620,1101,-,556,3,2146,2702
+732,菜,菜,cài,4,"vegetables; dish, order; food",艸 140.8,11,1,G3,630,1266,-,164,3,2091,2207
+733,量,量,liàng,4,"measure, quantity, capacity",里 166.5,12,4,G2,251,241,-,649,5,2453,2616
+734,饭,饭,fàn,4,"cooked rice; food, meal",食 184.4,7,1,G2,363,935,-,157,3,2604,823
+735,主,主,zhǔ,3,"master, chief owner; host; lord",丶 3.4,5,3,G2,198,87,-,363,3,33,300
+736,奖,奖,jiǎng,3,"prize, reward; give award to",大 37.6,9,4,G5,1170,1233,-,923,5,615,1618
+737,围,围,wéi,2,"surround, encircle, corral",囗 31.4,7,4,G4,718,576,-,761,3,528,728
+738,给,给,gěi,3,"give; by, for",糸 120.6,9,2,G1,143,180,-,217,3,1914,1758
+739,聊,聊,liáo,2,"somewhat, slightly, at least",耳 128.5,11,3,G6,1716,1932,-,599,4,1973,2196
+740,黄,黄,huáng,2,yellow; surname,黃 201.0,11,3,G3,509,561,-,474,5,2653,2201
+741,原,原,yuán,2,"source, origin, beginning",厂 27.8,10,4,G2,228,193,-,638,4,361,1868
+742,盘,盘,pán,2,"tray, plate, dish; examine",皿 108.6,11,3,G4,862,1049,-,548,3,1710,2343
+743,登,登,dēng,1,"rise, mount, board, climb",癶 105.7,12,4,G4,792,817,-,831,4,1693,2813
+744,豪,豪,háo,2,"brave, heroic, chivalrous",豕 152.7,14,5,G6,1570,1513,-,1426,3,2260,3141
+745,厨,厨,chú,2,kitchen; closet; cupboard,厂 27.10,12,4,G5,1356,2132,-,1020,3,364,2587
+746,鼓,鼓,gǔ,3,"drum; beat, top, strike",鼓 207.0,13,4,G4,884,1123,-,899,2,2657,2837
+747,树,树,shù,4,"tree; plant; set up, establish",木 75.5,9,3,G2,349,697,-,498,3,1305,1439
+748,要,要,yào,4,"necessary, essential; necessity",襾 146.3,9,2,G1,26,26,-,178,3,2172,1441
+749,顾,顾,gù,4,look back; look at; look after,頁 181.4,10,3,G4,791,815,-,518,2,2581,1874
+750,酒,酒,jiǔ,3,"wine, spirits, liquor, alcoholic beverage",酉 164.3,10,3,G3,571,797,-,517,3,2437,2069
+751,镜,镜,jìng,4,mirror; lens; glass; glasses,金 167.11,16,4,G5,1177,1251,-,925,4,2491,3354
+752,较,较,jiào,4,"compare; comparatively, more",車 159.6,10,3,G3,483,491,-,459,4,2346,1876
+753,质,质,zhì,4,"matter, material, substance",厂 27.4,8,4,G4,663,404,-,705,3,2272,1157
+754,姓,姓,xìng,4,,女 38.5,8,2,G4,890,1149,-,322,4,640,1327
+755,试,试,shì,4,"test, try, experiment",言 149.6,8,2,G3,533,643,-,284,3,2216,1286
+756,猪,猪,zhū,1,"pig, hog, wild boar",犬 94.9,11,5,G5,1313,1762,-,1502,3,1620,2365
+757,猫,猫,māo,1,cat,犬 94.9,11,1,G4,964,1673,-,172,3,1621,2367
+758,烦,烦,fán,2,"bother, vex, trouble; troublesome",火 86.6,10,4,G4,912,1253,-,926,3,1563,2059
+759,担,担,dān,1,"carry, bear, undertake",手 64.5,8,3,G4,765,720,-,503,3,1032,963
+760,饮,饮,yǐn,3,drink; swallow; kind of drink,食 184.4,7,3,G5,1271,1569,-,581,3,2605,824
+761,搬,搬,bān,1,"transfer, move, remove, shift",手 64.10,13,3,G4,969,1766,-,593,3,1127,2840
+762,问,问,wèn,4,"ask about, inquire after",門 169.3,6,2,G1,116,137,-,209,3,2497,528
+763,请,请,qǐng,3,"ask, request; invite; please",言 149.8,10,1,G2,302,421,-,115,4,2232,2108
+764,矮,矮,ǎi,3,"short, dwarf; low",矢 111.8,13,3,G6,1748,2027,-,604,2,1749,2946
+765,合,合,hé,2,"combine, unite, join; gather",口 30.3,6,4,G1,139,171,-,632,2,404,488
+766,机,机,jī,1,desk; machine; moment,木 75.2,6,1,G2,203,111,-,58,2,1262,377
+767,河,河,hé,2,river; stream; yellow river,水 85.5,8,3,G2,331,574,-,478,2,1419,1244
+768,双,双,shuāng,1,"set of two, pair, couple; both",又 29.2,4,3,G3,512,581,-,480,6,372,187
+769,书,书,shū,1,"book, letter, document; writings",丨 2.3,4,1,G1,166,282,-,95,3,54,188
+770,肚,肚,dù,4,belly; abdomen; bowels,肉 130.3,7,4,G4,971,1800,-,997,2,1985,805
+771,能,能,néng,2,"to be able; can, permitted to; ability",肉 130.6,10,1,G1,34,35,-,27,4,2011,2146
+772,预,预,yù,4,"prepare, arrange; in advance",頁 181.4,10,4,G4,739,647,-,783,2,2585,2148
+773,字,字,zì,4,"letter, character, word",子 39.3,6,1,G1,183,393,-,112,2,666,548
+774,经,经,jīng,1,classic works; pass through,糸 120.5,8,2,G1,60,62,-,189,4,1908,1350
+775,麻,麻,má,2,"hemp, jute, flax; sesame",麻 200.0,11,4,G4,880,1108,-,894,2,2652,2379
+776,柜,柜,guì,4,"cabinet, cupboard; shop counter",木 75.5,8,5,G6,1740,1994,-,1554,3,1296,1022
+777,康,康,kāng,1,"peaceful, quiet; happy, healthy",广 53.8,11,3,G4,824,900,-,528,4,832,2385
+779,等,等,děng,3,,竹 118.6,12,2,G1,131,158,-,213,4,1839,2681
+780,姨,姨,yí,2,,女 38.6,9,3,G5,1365,2287,-,608,2,643,1737
+781,对,对,duì,4,"correct, right; facing, opposed",寸 41.2,5,1,G1,32,33,-,25,3,715,341
+782,爬,爬,pá,2,"crawl, creep; climb; scramble",爪 87.4,8,3,G4,936,1426,-,576,2,1585,1161
+783,鱼,鱼,yú,2,fish; surname; KangXi radical 195,魚 195.0,8,2,G2,357,852,-,299,2,2642,1194
+784,汉,汉,hàn,4,Chinese people; Chinese language,水 85.2,5,1,G4,762,711,-,144,3,1400,311
+785,转,转,zhuǎn,3,"shift, move, turn",車 159.4,8,4,G3,437,376,-,698,5,2340,1059
+786,到,到,dào,4,"go to, arrive, been to",刀 18.6,8,2,G1,22,22,-,176,3,277,1063
+787,饿,饿,è,4,hungry; greedy for; hunger,食 184.7,10,3,G5,1333,1911,-,598,1,2612,2012
+788,翻,翻,fān,1,"flip over, upset, capsize",羽 124.12,18,4,G4,856,1027,-,878,3,1958,3445
+789,舟,舟,zhōu,1,"boat, ship; KangXi radical 137",舟 137.0,6,6,G6,1795,2224,-,2210,4,2050,484
+790,丝,丝,sī,1,silk; fine thread; wire; strings,一 1.4,5,5,G4,855,1026,-,1265,2,21,347
+791,约,约,yuē,1,"treaty, agreement, covenant",糸 120.3,6,4,G3,459,424,-,712,3,1886,593
+792,号,号,hào,4,"mark, sign; symbol; number",口 30.2,5,1,G2,317,487,-,124,3,397,243
+793,认,认,rèn,4,"recognize, know, understand",言 149.2,4,1,G3,388,213,-,82,3,2191,171
+794,折,折,zhé,2,"break off, snap; bend",手 64.4,7,4,G5,1138,1131,-,902,3,1018,632
+795,嗽,嗽,sòu,4,"cough, gargle, clear throat",口 30.11,14,4,G8,2478,2815,-,1056,3,509,3103
+796,板,板,bǎn,3,"plank, board; iron or tin plate",木 75.4,8,3,G3,597,930,-,533,3,1280,1025
+797,难,难,nán,2,"difficult, arduous, hard; unable",又 29.8,10,3,G2,272,295,-,415,3,2542,2147
+798,静,静,jìng,4,"quiet, still, motionless; gentle",青 174.6,14,3,G3,552,722,-,504,4,2565,3049
+799,歌,歌,gē,1,"song, lyrics; sing, chant; praise",欠 76.10,14,2,G3,613,1040,-,316,2,1362,3084
+800,们,们,men,0,adjunct pronoun indicate plural,人 9.3,5,1,G1,13,13,-,13,3,100,273
+801,炒,炒,chǎo,3,"fry, saute, roast, boil, cook",火 86.4,8,5,G6,1840,2590,-,1649,4,1549,1234
+802,消,消,xiāo,1,"vanish, die out; melt away",水 85.7,10,4,G3,464,439,-,719,4,1469,2071
+803,签,签,qiān,1,"sign, endorse; slip of paper",竹 118.7,13,4,G6,1492,1254,-,927,4,1849,2953
+804,还,还,hái,2,"still, yet, also, besides",辵 162.4,7,2,G1,78,80,-,191,3,2379,704
+805,羊,羊,yáng,2,"sheep, goat; KangXi radical 123",羊 123.0,6,2,G4,924,1337,-,334,4,1949,530
+806,句,句,jù,4,sentence,口 30.2,5,3,G3,549,707,-,500,2,384,288
+807,客,客,kè,4,"guest, traveller; customer",宀 40.6,9,1,G3,513,583,-,131,2,691,1703
+808,只,只,zhǐ,3,"only, just, simply",口 30.2,5,3,G1,92,97,-,366,3,387,246
+809,拿,拿,ná,2,"take, hold, grasp; bring; with",手 64.6,10,3,G2,341,645,-,493,2,1059,1983
+810,春,春,chūn,1,spring; wanton,日 72.5,9,3,G3,593,921,-,530,4,1213,1355
+811,迷,迷,mí,2,"bewitch, charm, infatuate",辵 162.6,9,4,G4,892,1153,-,906,2,2388,1647
+812,评,评,píng,2,"appraise, criticize, evaluate",言 149.5,7,4,G6,1411,809,-,827,4,2209,887
+813,鞋,鞋,xié,2,"shoes, footwear in general",革 177.6,15,3,G4,960,1638,-,583,3,2570,3207
+814,题,题,tí,2,"forehead; title, headline; theme",頁 181.9,15,2,G2,236,218,-,227,2,2592,3233
+815,衣,衣,yī,1,"clothes, clothing; cover, skin",衣 145.0,6,1,G2,350,725,-,145,2,2148,520
+816,钱,钱,qián,2,"money, currency, coins",金 167.5,10,1,G1,190,603,-,133,4,2467,1928
+817,啡,啡,fēi,1,morphine; coffee,口 30.8,11,2,G8,2373,2326,-,342,3,486,2272
+818,录,录,lù,4,"copy, write down, record",彐 58.5,8,5,G5,1078,919,-,1234,2,856,1304
+819,堵,堵,dǔ,3,"wall; stop, prevent; stop up",土 32.9,11,4,G7,2139,2284,-,1031,2,569,2161
+820,戚,戚,qī,1,relative; be related to; sad,戈 62.7,11,4,G6,1812,2316,-,1034,2,979,2239
+821,免,免,miǎn,3,spare; excuse from; evade,儿 10.5,7,4,G4,774,755,-,812,4,208,810
+822,安,安,ān,1,"peaceful, tranquil, quiet",宀 40.3,6,3,G2,244,232,-,398,2,679,549
+823,百,百,bǎi,3,"one hundred; numerous, many",白 106.1,6,2,G2,301,407,-,259,3,1695,389
+824,动,动,dòng,4,"move, happen; movement, action",力 19.4,6,2,G1,71,73,-,190,4,304,353
+825,起,起,qǐ,3,"rise, stand up; go up; begin",走 156.3,10,1,G1,73,75,-,45,2,2304,1789
+826,它,它,tā,1,it; other,宀 40.2,5,2,G2,202,107,-,198,2,675,314
+827,戏,戏,xì,4,"theatrical play, show",戈 62.2,6,3,G3,612,1033,-,546,2,973,584
+828,议,议,yì,4,"consult, talk over, discuss",言 149.3,5,3,G4,659,368,-,430,2,2196,320
+829,须,须,xū,1,"must, have to, necessary",彡 59.6,9,3,G4,673,444,-,444,2,2579,1585
+830,姐,姐,jiě,3,"elder sister, young lady",女 38.5,8,1,G4,800,830,-,151,3,638,1326
+831,呢,呢,ne,0,interrogative or emphatic final; (Cant.) this,口 30.5,8,1,G2,296,383,-,109,2,436,1102
+832,往,往,wǎng,3,"go, depart; past, formerly",彳 60.5,8,2,G2,293,369,-,252,4,864,1160
+833,弃,弃,qì,4,"reject, abandon, discard",廾 55.4,7,4,G5,1133,1105,-,893,2,841,842
+834,盐,盐,yán,2,salt,皿 108.5,10,4,G6,1698,1885,-,1003,3,1705,1790
+835,参,参,cān,1,"take part in, intervene; ginseng",厶 28.6,8,3,G3,491,507,-,463,3,367,1334
+836,共,共,gòng,4,"together with, all, total; to share",八 12.4,6,2,G3,417,330,-,245,4,219,371
+837,钟,钟,zhōng,1,clock; bell,金 167.4,9,1,G3,589,905,-,155,5,2462,1528
+838,光,光,guāng,1,"light, brilliant, shine; only",儿 10.4,6,4,G2,270,290,-,669,5,206,417
+839,常,常,cháng,2,"common, normal, frequent, regular",巾 50.8,11,2,G1,146,187,-,220,5,802,2257
+840,扫,扫,sǎo,3,"sweep, clear away; exterminate",手 64.3,6,3,G4,938,1435,-,577,3,999,365
+841,整,整,zhěng,3,"orderly, neat, tidy; whole",攴 66.11,16,4,G3,457,416,-,707,5,1171,3333
+842,看,看,kàn,4,"look, see; examine, scrutinize",目 109.4,9,1,G1,74,76,-,46,3,1722,1539
+843,商,商,shāng,1,"commerce, business, trade",口 30.8,11,1,G3,450,402,-,114,5,484,2391
+844,丁,丁,dīng,1,"male adult; robust, vigorous; 4th heavenly stem",一 1.1,2,6,G5,1150,1168,-,1771,4,2,5
+845,爱,爱,ài,4,"love, be fond of, like",爪 87.6,10,1,G1,184,394,-,113,2,1586,1987
+846,住,住,zhù,4,"reside, live at, dwell, lodge; stop",人 9.5,7,1,G2,276,309,-,97,3,132,783
+847,运,运,yùn,4,"run; simplified form of 運 luck, fortune; ship, transport",辵 162.4,7,2,G2,287,345,-,247,3,2376,611
+848,有,有,yǒu,3,"have, own, possess; exist",月 74.2,6,1,G1,8,8,-,8,3,1248,390
+849,哭,哭,kū,1,"weep, cry, wail",口 30.7,10,3,G3,625,1210,-,563,2,469,1907
+850,些,些,xiē,1,"little, few; rather, somewhat",二 7.5,8,1,G1,83,86,-,51,3,70,1069
+851,忘,忘,wàng,4,"forget; neglect; miss, omit",心 61.3,7,3,G3,614,1056,-,549,4,885,844
